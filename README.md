@@ -6,43 +6,45 @@ El objetivo principal es centralizar los recursos de datos para garantizar la tr
 
 ---
 
-## 🏢 Caso de Estudio: DataRetail LATAM S.A.S.
+## 🏢 Casos de Estudio y Origen de los Datos
 
-Los datasets almacenados aquí pertenecen a **DataRetail LATAM S.A.S.**, una cadena ficticia de retail electrónico con operaciones en tiendas físicas, e-commerce y canales B2B en seis países de América Latina (Colombia, Perú, México, Argentina, Chile y Uruguay).
+Los recursos almacenados en este repositorio se dividen en dos vertientes principales:
 
-Cada archivo simula retos del mundo real en consistencia y calidad de datos, tales como:
-* Valores nulos y registros duplicados.
-* Inconsistencias de capitalización (ej. ciudades mal digitadas).
-* Outliers en cantidades y montos de ventas.
-* Desajustes de formatos y tipos de datos.
+1. **DataRetail LATAM S.A.S. (Ficticio):** Una cadena de retail electrónico con operaciones en tiendas físicas, e-commerce y canales B2B en seis países de América Latina (Colombia, Perú, México, Argentina, Chile y Uruguay). Diseñado para simular retos del mundo real en consistencia y calidad de datos (valores nulos, duplicados, inconsistencias de texto y outliers).
+2. **Datos Reales y Contratación Pública (Colombia):** Datos abiertos provenientes de plataformas oficiales como el **SECOP II**, enfocados en el análisis masivo de contratación electrónica, estructuración de compras públicas y analítica avanzada de datos gubernamentales.
 
 ---
 
 ## 📂 Inventario de Datasets disponibles
 
-| Archivo | Sesión / Módulo | Estado | Descripción |
+| Archivo | Módulo / Caso | Estado | Descripción |
 | :--- | :--- | :--- | :--- |
 | `Dataset_DataRetail_LATAM_S01.csv` | Sesión 1: Diagnóstico y Calidad | 🛠️ En Proceso | Archivo inicial para evaluar la calidad integral del dataset e identificar nulos, duplicados y outliers. |
 | `Dataset_DataRetail_LATAM_S02.csv` | Sesión 2: Limpieza de Datos | 🛠️ En Proceso | Contiene registros con problemas estructurales para aplicar técnicas de imputación y tratamiento estadístico. |
+| `SECOP_II_-_Contratos_Electrónicos_20260625.csv` | Analítica Avanzada / Casos Reales | 📥 Disponible | Dataset masivo (>160 MB) con registros detallados de contratos electrónicos de SECOP II para minería de datos y analítica predictiva. |
+
+> ⚠️ **Nota sobre archivos grandes:** Debido a que el dataset de SECOP II supera el límite estándar de GitHub (100 MB), este repositorio utiliza **Git LFS (Large File Storage)** para gestionar su historial y almacenamiento.
 
 ---
 
 ## 🐍 ¿Cómo consumir estos datasets en Python (Pandas)?
 
-Para evitar la descarga manual de los archivos, puedes clonar el flujo de trabajo importando el dataset directamente mediante su URL en formato **Raw**.
+Para evitar la descarga manual de los archivos, puedes importar los datasets directamente en tus entornos de Jupyter o Google Colab mediante su URL en formato **Raw**.
 
 ```python
 import pandas as pd
 
-# Ruta base de tu repositorio en modo RAW
+# Ruta base del repositorio en modo RAW
 BASE_URL = '[https://raw.githubusercontent.com/JoseIbarraH/datasets-analitica-de-datos/refs/heads/main/](https://raw.githubusercontent.com/JoseIbarraH/datasets-analitica-de-datos/refs/heads/main/)'
 
-# Cargar Dataset de la Sesión 1
+# --- Cargar Datasets de DataRetail ---
 df_s01 = pd.read_csv(BASE_URL + 'Dataset_DataRetail_LATAM_S01.csv')
-
-# Cargar Dataset de la Sesión 2
 df_s02 = pd.read_csv(BASE_URL + 'Dataset_DataRetail_LATAM_S02.csv')
 
-# Verificar la carga exitosa (Ejemplo con S01)
-print(f"Dimensiones del dataset S01: {df_s01.shape}")
-display(df_s01.head())
+# --- Cargar Dataset Masivo de SECOP II ---
+# Nota: Al estar en Git LFS, Pandas resolverá el puntero automáticamente al usar la URL Raw pública.
+df_secop = pd.read_csv(BASE_URL + 'SECOP_II_-_Contratos_Electrónicos_20260625.csv', low_memory=False)
+
+# Verificar la carga exitosa (Ejemplo con SECOP II)
+print(f"Dimensiones del dataset SECOP II: {df_secop.shape}")
+display(df_secop.head())
