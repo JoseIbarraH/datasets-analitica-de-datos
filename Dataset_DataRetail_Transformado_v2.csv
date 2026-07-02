@@ -1,0 +1,2001 @@
+Venta_ID,Fecha,Pais,Ciudad,Canal_Venta,Categoria,Ventas,Costo,Utilidad,Margen_Utilidad,Segmento,Satisfaccion
+1,2025-01-01,Peru,Lima,Ecommerce,Hogar,639622,367183,272439,0.43,Corporativo,5
+2,2025-01-01,Colombia,Lima,App Movil,Oficina,534416,394050,140366,0.26,Premium,1
+3,2025-01-01,Peru,Santiago,Ecommerce,Oficina,190679,121818,68861,0.36,Corporativo,5
+4,2025-01-01,Peru,Bogota,App Movil,Tecnologia,1197056,698926,498130,0.42,Premium,5
+5,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1644684,755341,889343,0.54,Basico,4
+6,2025-01-01,Chile,Bogota,Ecommerce,Hogar,3045641,1902500,1143141,0.38,Corporativo,3
+7,2025-01-01,Colombia,Lima,App Movil,Oficina,4516539,2591341,1925198,0.43,Basico,1
+8,2025-01-01,Mexico,Santiago,App Movil,Hogar,2417023,1154139,1262884,0.52,Corporativo,4
+9,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,2883634,1554044,1329590,0.46,Basico,1
+10,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4266670,2089348,2177322,0.51,Premium,5
+11,2025-01-01,Mexico,Lima,App Movil,Hogar,4016389,2744889,1271500,0.32,Corporativo,5
+12,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,4876069,4129575,746494,0.15,Basico,5
+13,2025-01-01,Peru,Santiago,Ecommerce,Oficina,4274605,2920808,1353797,0.32,Corporativo,1
+14,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,1072939,876523,196416,0.18,Basico,1
+15,2025-01-01,Colombia,Lima,Ecommerce,Hogar,4505576,3493516,1012060,0.22,Premium,5
+16,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,1187250,556507,630743,0.53,Corporativo,5
+17,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,3324422,1730343,1594079,0.48,Premium,3
+18,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,3845492,2920646,924846,0.24,Corporativo,1
+19,2025-01-01,Mexico,Lima,App Movil,Tecnologia,819617,508672,310945,0.38,Basico,4
+20,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,3899576,2677247,1222329,0.31,Premium,1
+21,2025-01-01,Chile,Cartagena,App Movil,Oficina,496288,366141,130147,0.26,Premium,3
+22,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,1779469,885867,893602,0.5,Basico,1
+23,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,4474685,3697695,776990,0.17,Premium,2
+24,2025-01-01,Colombia,Cartagena,App Movil,Oficina,3432990,2861995,570995,0.17,Corporativo,1
+25,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,2822889,1382386,1440503,0.51,Corporativo,5
+26,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,3712808,2110136,1602672,0.43,Corporativo,2
+27,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,1226379,1001651,224728,0.18,Corporativo,1
+28,2025-01-01,Chile,Bogota,App Movil,Oficina,2433590,1295850,1137740,0.47,Basico,3
+29,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,3902229,2115434,1786795,0.46,Corporativo,3
+30,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,658501,393466,265035,0.4,Premium,5
+31,2025-01-01,Colombia,Santiago,App Movil,Oficina,3952763,2125114,1827649,0.46,Premium,2
+32,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,2468549,1515442,953107,0.39,Premium,1
+33,2025-01-01,Chile,Santiago,Ecommerce,Hogar,1332762,1104153,228609,0.17,Premium,2
+34,2025-01-01,Mexico,Lima,App Movil,Tecnologia,1088278,809980,278298,0.26,Corporativo,4
+35,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,4666702,2194685,2472017,0.53,Premium,1
+36,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3829017,2309448,1519569,0.4,Premium,1
+37,2025-01-01,Chile,Lima,Ecommerce,Hogar,4906736,3387221,1519515,0.31,Corporativo,4
+38,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,3541902,2539596,1002306,0.28,Basico,3
+39,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,710680,592233,118447,0.17,Corporativo,1
+40,2025-01-01,Mexico,Santiago,App Movil,Hogar,1349708,663410,686298,0.51,Corporativo,4
+41,2025-01-01,Mexico,Lima,App Movil,Hogar,2991356,1545419,1445937,0.48,Corporativo,5
+42,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4749598,2753299,1996299,0.42,Corporativo,2
+43,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,4105648,2213334,1892314,0.46,Corporativo,3
+44,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,693375,464395,228980,0.33,Basico,3
+45,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,1420610,748808,671802,0.47,Premium,4
+46,2025-01-01,Colombia,Santiago,App Movil,Hogar,1670133,1105956,564177,0.34,Basico,1
+47,2025-01-01,Chile,Santiago,App Movil,Hogar,1831568,1507433,324135,0.18,Premium,2
+48,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,4827427,2319213,2508214,0.52,Basico,5
+49,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,3926994,2530183,1396811,0.36,Basico,2
+50,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,3647761,1915370,1732391,0.47,Basico,5
+51,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,366077,286445,79632,0.22,Basico,3
+52,2025-01-01,Peru,Santiago,App Movil,Tecnologia,3194816,2133131,1061685,0.33,Basico,3
+53,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,4048694,1920637,2128057,0.53,Corporativo,4
+54,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,3169921,1942484,1227437,0.39,Basico,1
+55,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,2154022,1049997,1104025,0.51,Premium,1
+56,2025-01-01,Mexico,Lima,Ecommerce,Oficina,571628,383165,188463,0.33,Basico,3
+57,2025-01-01,Chile,Bogota,App Movil,Oficina,114120,70308,43812,0.38,Corporativo,5
+58,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,3616603,1807438,1809165,0.5,Corporativo,4
+59,2025-01-01,Colombia,Cartagena,App Movil,Oficina,4518763,2831735,1687028,0.37,Corporativo,4
+60,2025-01-01,Colombia,Cartagena,App Movil,Hogar,4608361,3717653,890708,0.19,Corporativo,2
+61,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,3006100,1766565,1239535,0.41,Basico,4
+62,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,232639,190372,42267,0.18,Corporativo,2
+63,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,3678001,2283929,1394072,0.38,Premium,5
+64,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,3430721,2448480,982241,0.29,Premium,2
+65,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2932394,1436464,1495930,0.51,Premium,4
+66,2025-01-01,Mexico,Cartagena,App Movil,Hogar,556314,263911,292403,0.53,Basico,1
+67,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4046254,3077391,968863,0.24,Corporativo,5
+68,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,2166451,1455468,710983,0.33,Premium,2
+69,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,762812,527165,235647,0.31,Premium,3
+70,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,445856,360235,85621,0.19,Corporativo,5
+71,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2598499,1683655,914844,0.35,Premium,4
+72,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,158489,110544,47945,0.3,Premium,4
+73,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,4522304,2230022,2292282,0.51,Basico,2
+74,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,4797078,3115414,1681664,0.35,Basico,4
+75,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,4763703,3616414,1147289,0.24,Basico,1
+76,2025-01-01,Chile,Lima,App Movil,Tecnologia,744600,502504,242096,0.33,Basico,5
+77,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2183891,1364774,819117,0.38,Premium,4
+78,2025-01-01,Chile,Bogota,App Movil,Tecnologia,3817389,1800222,2017167,0.53,Basico,1
+79,2025-01-01,Peru,Bogota,Ecommerce,Oficina,1526003,1063980,462023,0.3,Basico,2
+80,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,2341955,1572007,769948,0.33,Corporativo,5
+81,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,1237928,936577,301351,0.24,Basico,2
+82,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,3999356,2537312,1462044,0.37,Corporativo,3
+83,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4318129,3363622,954507,0.22,Corporativo,4
+84,2025-01-01,Mexico,Lima,Ecommerce,Oficina,1644178,970900,673278,0.41,Premium,2
+85,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,426543,333780,92763,0.22,Premium,3
+86,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,4341917,2343374,1998543,0.46,Basico,5
+87,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,425393,274748,150645,0.35,Basico,3
+88,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,1480518,1257064,223454,0.15,Corporativo,5
+89,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,4327640,3020437,1307203,0.3,Premium,3
+90,2025-01-01,Peru,Santiago,Ecommerce,Hogar,1683716,1223567,460149,0.27,Corporativo,3
+91,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,2756024,2007025,748999,0.27,Premium,4
+92,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,3512886,2270461,1242425,0.35,Corporativo,2
+93,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,4312297,3523584,788713,0.18,Basico,1
+94,2025-01-01,Mexico,Bogota,App Movil,Oficina,3651879,1917410,1734469,0.47,Basico,3
+95,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,4567817,3062168,1505649,0.33,Premium,1
+96,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,4333870,2178487,2155383,0.5,Corporativo,3
+97,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,443280,306621,136659,0.31,Corporativo,3
+98,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,4110204,2331249,1778955,0.43,Corporativo,4
+99,2025-01-01,Mexico,Bogota,App Movil,Hogar,3402900,1846445,1556455,0.46,Corporativo,1
+100,2025-01-01,Peru,Lima,App Movil,Tecnologia,4120487,3230075,890412,0.22,Basico,1
+101,2025-01-01,Chile,Lima,App Movil,Hogar,2441423,1536798,904625,0.37,Premium,3
+102,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,2546814,1802152,744662,0.29,Corporativo,3
+103,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,1689913,886151,803762,0.48,Corporativo,3
+104,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4313798,2257231,2056567,0.48,Corporativo,1
+105,2025-01-01,Mexico,Lima,App Movil,Hogar,3310821,2313526,997295,0.3,Premium,3
+106,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,1249279,768770,480509,0.38,Basico,1
+107,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,862708,409292,453416,0.53,Premium,5
+108,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4716188,3666771,1049417,0.22,Corporativo,3
+109,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,2381776,1501799,879977,0.37,Basico,5
+110,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,1034444,785720,248724,0.24,Premium,5
+111,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,3923059,2710823,1212236,0.31,Basico,5
+112,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,147001,123641,23360,0.16,Basico,4
+113,2025-01-01,Peru,Lima,Ecommerce,Oficina,4269637,2649563,1620074,0.38,Corporativo,1
+114,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,4375037,3708612,666425,0.15,Premium,4
+115,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,3003862,2272725,731137,0.24,Corporativo,2
+116,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,3522101,1754836,1767265,0.5,Corporativo,2
+117,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,4969004,2655852,2313152,0.47,Corporativo,4
+118,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1405292,1148817,256475,0.18,Corporativo,4
+119,2025-01-01,Peru,Lima,Ecommerce,Hogar,814819,640495,174324,0.21,Corporativo,2
+120,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,747446,522460,224986,0.3,Corporativo,5
+121,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,4644914,2953841,1691073,0.36,Basico,5
+122,2025-01-01,Chile,Bogota,Ecommerce,Hogar,231861,127060,104801,0.45,Corporativo,4
+123,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,758159,489154,269005,0.35,Basico,3
+124,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,1989887,1238210,751677,0.38,Corporativo,1
+125,2025-01-01,Chile,Cartagena,App Movil,Hogar,2609591,2184232,425359,0.16,Corporativo,4
+126,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,450735,361919,88816,0.2,Basico,4
+127,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,1453590,881578,572012,0.39,Corporativo,1
+128,2025-01-01,Chile,Santiago,Ecommerce,Oficina,814325,469505,344820,0.42,Premium,3
+129,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,2298603,1713575,585028,0.25,Basico,2
+130,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,4020407,2083620,1936787,0.48,Premium,5
+131,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1097655,594856,502799,0.46,Corporativo,4
+132,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,2107896,1247846,860050,0.41,Corporativo,5
+133,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,594868,383839,211029,0.35,Corporativo,5
+134,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,2677428,1799039,878389,0.33,Premium,2
+135,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,2286638,1653452,633186,0.28,Corporativo,1
+136,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,4015899,2391171,1624728,0.4,Premium,1
+137,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,3076815,1967840,1108975,0.36,Basico,2
+138,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3965101,2680090,1285011,0.32,Premium,1
+139,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,2886926,1637973,1248953,0.43,Premium,4
+140,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,4275387,3407739,867648,0.2,Basico,4
+141,2025-01-01,Peru,Santiago,Ecommerce,Hogar,1612646,1337931,274715,0.17,Basico,5
+142,2025-01-01,Chile,Santiago,Ecommerce,Hogar,2183864,1146927,1036937,0.47,Basico,4
+143,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,2391358,1470980,920378,0.38,Corporativo,2
+144,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,1722697,890861,831836,0.48,Basico,5
+145,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,4595174,2784119,1811055,0.39,Basico,2
+146,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,4931990,3013270,1918720,0.39,Basico,4
+147,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,1793965,1245101,548864,0.31,Basico,1
+148,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,2118509,971064,1147445,0.54,Corporativo,3
+149,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,4309039,2223110,2085929,0.48,Premium,4
+150,2025-01-01,Colombia,Cartagena,App Movil,Hogar,3664259,1906874,1757385,0.48,Premium,3
+151,2025-01-01,Chile,Santiago,Ecommerce,Oficina,1856177,1554035,302142,0.16,Basico,3
+152,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,1925138,1131359,793779,0.41,Premium,1
+153,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2329929,1247750,1082179,0.46,Corporativo,4
+154,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,3457616,2170851,1286765,0.37,Basico,4
+155,2025-01-01,Chile,Lima,App Movil,Hogar,1168921,558322,610599,0.52,Basico,5
+156,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,2822305,2256174,566131,0.2,Basico,4
+157,2025-01-01,Chile,Bogota,App Movil,Oficina,2234530,1403526,831004,0.37,Basico,1
+158,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,3515280,2388978,1126302,0.32,Corporativo,2
+159,2025-01-01,Colombia,Santiago,App Movil,Oficina,4996769,4136452,860317,0.17,Basico,5
+160,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,727896,494017,233879,0.32,Premium,3
+161,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,354955,299882,55073,0.16,Corporativo,2
+162,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,3212371,1707815,1504556,0.47,Corporativo,1
+163,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,1091635,732883,358752,0.33,Basico,3
+164,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1967448,1506993,460455,0.23,Premium,3
+165,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,1391891,1148111,243780,0.18,Premium,5
+166,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,4820223,2412382,2407841,0.5,Corporativo,1
+167,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,437796,359526,78270,0.18,Premium,5
+168,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,2322484,1638184,684300,0.29,Corporativo,5
+169,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,4718120,2559048,2159072,0.46,Basico,2
+170,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,3215497,2324315,891182,0.28,Premium,5
+171,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,3705540,2624434,1081106,0.29,Premium,3
+172,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,677723,484679,193044,0.28,Premium,5
+173,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,320164,162876,157288,0.49,Corporativo,3
+174,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,620032,416619,203413,0.33,Basico,2
+175,2025-01-01,Peru,Santiago,App Movil,Hogar,1319747,751006,568741,0.43,Corporativo,5
+176,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,2283432,1395964,887468,0.39,Basico,3
+177,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,1466111,926280,539831,0.37,Premium,5
+178,2025-01-01,Chile,Lima,App Movil,Oficina,4369357,2776675,1592682,0.36,Basico,4
+179,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,2474442,1136285,1338157,0.54,Basico,3
+180,2025-01-01,Colombia,Lima,App Movil,Hogar,2827093,1548682,1278411,0.45,Basico,3
+181,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,3910664,3098617,812047,0.21,Corporativo,2
+182,2025-01-01,Peru,Cartagena,App Movil,Hogar,1739382,1423013,316369,0.18,Premium,4
+183,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,2216236,1663640,552596,0.25,Premium,5
+184,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,4143093,2562705,1580388,0.38,Corporativo,5
+185,2025-01-01,Peru,Santiago,App Movil,Tecnologia,640044,538814,101230,0.16,Corporativo,4
+186,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,3288826,1531200,1757626,0.53,Corporativo,5
+187,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,2749831,2314830,435001,0.16,Basico,4
+188,2025-01-01,Mexico,Cartagena,App Movil,Hogar,3737440,2860841,876599,0.23,Basico,4
+189,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,2436753,1752993,683760,0.28,Premium,5
+190,2025-01-01,Mexico,Cartagena,App Movil,Hogar,3176451,1869307,1307144,0.41,Premium,5
+191,2025-01-01,Chile,Santiago,Ecommerce,Oficina,2326796,1688464,638332,0.27,Corporativo,4
+192,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,107763,63821,43942,0.41,Premium,2
+193,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,4450299,2899148,1551151,0.35,Basico,4
+194,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,4484543,2744688,1739855,0.39,Premium,2
+195,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,1741801,1324142,417659,0.24,Premium,1
+196,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3497391,2948807,548584,0.16,Corporativo,4
+197,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,1628598,1340841,287757,0.18,Premium,3
+198,2025-01-01,Chile,Bogota,App Movil,Tecnologia,164990,121643,43347,0.26,Premium,1
+199,2025-01-01,Colombia,Lima,App Movil,Oficina,617289,473732,143557,0.23,Premium,5
+200,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,226186,184356,41830,0.18,Premium,5
+201,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,4165303,2400698,1764605,0.42,Corporativo,5
+202,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,2040933,1269607,771326,0.38,Corporativo,2
+203,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,2539060,1774062,764998,0.3,Corporativo,4
+204,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,2251751,1173479,1078272,0.48,Corporativo,4
+205,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,1591110,1145172,445938,0.28,Basico,3
+206,2025-01-01,Chile,Santiago,App Movil,Oficina,1686126,1172740,513386,0.3,Basico,3
+207,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,2574603,1273006,1301597,0.51,Basico,5
+208,2025-01-01,Chile,Bogota,Ecommerce,Hogar,3688498,2404213,1284285,0.35,Corporativo,1
+209,2025-01-01,Peru,Lima,App Movil,Hogar,310523,145799,164724,0.53,Premium,4
+210,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,909477,746511,162966,0.18,Premium,1
+211,2025-01-01,Colombia,Santiago,App Movil,Oficina,1328159,655713,672446,0.51,Basico,3
+212,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,4499122,3251879,1247243,0.28,Premium,4
+213,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4758553,2358934,2399619,0.5,Corporativo,4
+214,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,4777338,3198517,1578821,0.33,Basico,4
+215,2025-01-01,Chile,Lima,App Movil,Oficina,1703115,1219290,483825,0.28,Corporativo,2
+216,2025-01-01,Chile,Bogota,Ecommerce,Hogar,2121267,1060627,1060640,0.5,Premium,2
+217,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,3573578,2847774,725804,0.2,Premium,2
+218,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,2496875,1655259,841616,0.34,Premium,4
+219,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,4721940,3678616,1043324,0.22,Basico,2
+220,2025-01-01,Colombia,Bogota,App Movil,Oficina,3588666,1671899,1916767,0.53,Basico,2
+221,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,4783446,2702651,2080795,0.43,Premium,3
+222,2025-01-01,Colombia,Cartagena,App Movil,Oficina,1548733,1044137,504596,0.33,Basico,4
+223,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,177972,90252,87720,0.49,Premium,2
+224,2025-01-01,Chile,Lima,App Movil,Oficina,4036856,2654690,1382166,0.34,Premium,1
+225,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,2075714,1180639,895075,0.43,Basico,5
+226,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,4277549,2726040,1551509,0.36,Corporativo,3
+227,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,1255905,769636,486269,0.39,Basico,1
+228,2025-01-01,Mexico,Bogota,App Movil,Oficina,3021469,1497505,1523964,0.5,Corporativo,1
+229,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,3926017,2236803,1689214,0.43,Premium,1
+230,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,3600985,2965991,634994,0.18,Basico,1
+231,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4082577,3445373,637204,0.16,Premium,2
+232,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,793349,659943,133406,0.17,Corporativo,1
+233,2025-01-01,Peru,Lima,Ecommerce,Oficina,939628,530188,409440,0.44,Corporativo,2
+234,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,202597,165267,37330,0.18,Corporativo,2
+235,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,4952194,3783147,1169047,0.24,Corporativo,5
+236,2025-01-01,Peru,Cartagena,App Movil,Oficina,1198878,837776,361102,0.3,Corporativo,3
+237,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2268564,1433874,834690,0.37,Basico,3
+238,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3828659,3038806,789853,0.21,Premium,2
+239,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,4344342,3620214,724128,0.17,Premium,3
+240,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,4744138,3839768,904370,0.19,Premium,3
+241,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,356256,214879,141377,0.4,Corporativo,5
+242,2025-01-01,Peru,Bogota,App Movil,Oficina,743088,550055,193033,0.26,Basico,5
+243,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,4634470,2987624,1646846,0.36,Corporativo,2
+244,2025-01-01,Chile,Santiago,App Movil,Hogar,3072260,1702056,1370204,0.45,Corporativo,3
+245,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,3780988,2329119,1451869,0.38,Basico,1
+246,2025-01-01,Mexico,Bogota,App Movil,Oficina,4579135,2200501,2378634,0.52,Basico,3
+247,2025-01-01,Chile,Santiago,App Movil,Hogar,1597621,1258935,338686,0.21,Premium,5
+248,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,978160,467389,510771,0.52,Basico,1
+249,2025-01-01,Colombia,Lima,Ecommerce,Oficina,3016195,2001291,1014904,0.34,Premium,4
+250,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,662272,380918,281354,0.42,Corporativo,1
+251,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,786054,455796,330258,0.42,Corporativo,3
+252,2025-01-01,Peru,Cartagena,App Movil,Oficina,1186141,708804,477337,0.4,Corporativo,3
+253,2025-01-01,Mexico,Bogota,App Movil,Oficina,2376546,1643642,732904,0.31,Corporativo,3
+254,2025-01-01,Chile,Santiago,Ecommerce,Hogar,3456725,2568163,888562,0.26,Corporativo,2
+255,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,3042733,1539369,1503364,0.49,Premium,2
+256,2025-01-01,Colombia,Lima,App Movil,Tecnologia,3206647,2217546,989101,0.31,Basico,2
+257,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2785944,1916342,869602,0.31,Basico,1
+258,2025-01-01,Colombia,Bogota,App Movil,Hogar,2467554,1131145,1336409,0.54,Basico,2
+259,2025-01-01,Chile,Bogota,App Movil,Hogar,3027679,2313800,713879,0.24,Corporativo,5
+260,2025-01-01,Peru,Lima,Ecommerce,Oficina,4761298,3052846,1708452,0.36,Corporativo,1
+261,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,608447,413893,194554,0.32,Basico,2
+262,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,1095719,629632,466087,0.43,Premium,3
+263,2025-01-01,Peru,Bogota,Ecommerce,Hogar,3407384,2335401,1071983,0.31,Premium,3
+264,2025-01-01,Mexico,Cartagena,App Movil,Hogar,2000948,1409882,591066,0.3,Basico,5
+265,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1066084,724221,341863,0.32,Premium,2
+266,2025-01-01,Chile,Santiago,Ecommerce,Oficina,2203180,1843024,360156,0.16,Premium,2
+267,2025-01-01,Peru,Cartagena,App Movil,Oficina,916095,692138,223957,0.24,Basico,5
+268,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,4986374,3441703,1544671,0.31,Premium,1
+269,2025-01-01,Chile,Santiago,App Movil,Hogar,4978243,4126127,852116,0.17,Basico,4
+270,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,367850,198185,169665,0.46,Premium,5
+271,2025-01-01,Peru,Bogota,Ecommerce,Oficina,210565,125268,85297,0.41,Basico,2
+272,2025-01-01,Chile,Bogota,App Movil,Tecnologia,2955794,2321014,634780,0.21,Premium,1
+273,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,470333,321793,148540,0.32,Corporativo,1
+274,2025-01-01,Peru,Bogota,Ecommerce,Oficina,4335074,2470291,1864783,0.43,Basico,4
+275,2025-01-01,Peru,Lima,App Movil,Oficina,4996030,2981443,2014587,0.4,Premium,5
+276,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1968560,939464,1029096,0.52,Premium,1
+277,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,3325263,1523549,1801714,0.54,Corporativo,3
+278,2025-01-01,Chile,Lima,App Movil,Oficina,565798,396679,169119,0.3,Premium,3
+279,2025-01-01,Colombia,Lima,App Movil,Oficina,1288847,1005479,283368,0.22,Premium,1
+280,2025-01-01,Mexico,Lima,App Movil,Hogar,1336838,822661,514177,0.38,Basico,1
+281,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,2131742,1388621,743121,0.35,Corporativo,5
+282,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,131045,81355,49690,0.38,Premium,2
+283,2025-01-01,Mexico,Lima,App Movil,Hogar,4850889,3020876,1830013,0.38,Basico,1
+284,2025-01-01,Chile,Santiago,Ecommerce,Hogar,4090338,2730036,1360302,0.33,Premium,5
+285,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4026069,1866713,2159356,0.54,Premium,4
+286,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,605160,465006,140154,0.23,Basico,3
+287,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,236220,192993,43227,0.18,Premium,4
+288,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,901403,629184,272219,0.3,Corporativo,1
+289,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,2557798,1165405,1392393,0.54,Corporativo,1
+290,2025-01-01,Mexico,Bogota,App Movil,Hogar,777154,365951,411203,0.53,Basico,4
+291,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,4761685,3168428,1593257,0.33,Basico,5
+292,2025-01-01,Mexico,Lima,App Movil,Oficina,118688,85014,33674,0.28,Corporativo,1
+293,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2549600,1448842,1100758,0.43,Corporativo,1
+294,2025-01-01,Chile,Lima,App Movil,Hogar,4858848,3082080,1776768,0.37,Premium,2
+295,2025-01-01,Peru,Bogota,App Movil,Tecnologia,3363619,2632926,730693,0.22,Corporativo,5
+296,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,3161362,1424295,1737067,0.55,Premium,5
+297,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4160219,2132640,2027579,0.49,Corporativo,3
+298,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1442061,1087629,354432,0.25,Corporativo,1
+299,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,1289358,646959,642399,0.5,Corporativo,3
+300,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,2431698,2037845,393853,0.16,Corporativo,2
+301,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,3059562,1631443,1428119,0.47,Premium,3
+302,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,1031190,554411,476779,0.46,Premium,1
+303,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,332033,257650,74383,0.22,Basico,2
+304,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1726910,1379351,347559,0.2,Corporativo,1
+305,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,1688870,935940,752930,0.45,Basico,2
+306,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,1629196,1103226,525970,0.32,Premium,1
+307,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,3304817,1825693,1479124,0.45,Corporativo,4
+308,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,3564425,1864366,1700059,0.48,Basico,3
+309,2025-01-01,Peru,Lima,App Movil,Oficina,898795,569685,329110,0.37,Premium,4
+310,2025-01-01,Peru,Lima,Ecommerce,Hogar,3665099,2446046,1219053,0.33,Basico,1
+311,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,4274463,2380197,1894266,0.44,Corporativo,3
+312,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2073795,1623937,449858,0.22,Corporativo,1
+313,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,4654058,3037731,1616327,0.35,Premium,2
+314,2025-01-01,Mexico,Bogota,App Movil,Oficina,1075982,823511,252471,0.23,Corporativo,3
+315,2025-01-01,Chile,Lima,App Movil,Hogar,225897,115436,110461,0.49,Basico,2
+316,2025-01-01,Chile,Lima,Ecommerce,Oficina,4409480,2571686,1837794,0.42,Premium,4
+317,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,856717,586230,270487,0.32,Corporativo,5
+318,2025-01-01,Colombia,Lima,App Movil,Hogar,2946384,2474074,472310,0.16,Basico,4
+319,2025-01-01,Colombia,Bogota,App Movil,Oficina,3452038,1945287,1506751,0.44,Corporativo,1
+320,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,2693274,2059766,633508,0.24,Basico,4
+321,2025-01-01,Peru,Santiago,App Movil,Oficina,4812443,3621430,1191013,0.25,Basico,1
+322,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,962689,673066,289623,0.3,Basico,3
+323,2025-01-01,Peru,Santiago,App Movil,Hogar,3655924,3012480,643444,0.18,Premium,4
+324,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,3171824,1603267,1568557,0.49,Premium,2
+325,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,348529,262175,86354,0.25,Premium,5
+326,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,2908540,2281146,627394,0.22,Basico,1
+327,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,2013740,1297037,716703,0.36,Corporativo,5
+328,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,2359300,1544663,814637,0.35,Premium,5
+329,2025-01-01,Chile,Santiago,App Movil,Tecnologia,3639839,1669051,1970788,0.54,Premium,3
+330,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1555455,1057449,498006,0.32,Premium,3
+331,2025-01-01,Colombia,Lima,App Movil,Oficina,4744676,2856713,1887963,0.4,Premium,5
+332,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4192215,3500061,692154,0.17,Premium,5
+333,2025-01-01,Peru,Cartagena,App Movil,Hogar,1841147,1185781,655366,0.36,Premium,3
+334,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,2312450,1823026,489424,0.21,Corporativo,3
+335,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,454585,303606,150979,0.33,Corporativo,1
+336,2025-01-01,Colombia,Santiago,App Movil,Oficina,1658950,918963,739987,0.45,Corporativo,4
+337,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4510336,3283604,1226732,0.27,Basico,2
+338,2025-01-01,Peru,Bogota,Ecommerce,Hogar,851590,494572,357018,0.42,Premium,1
+339,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,4326175,3117521,1208654,0.28,Premium,4
+340,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,411994,286629,125365,0.3,Corporativo,4
+341,2025-01-01,Chile,Bogota,App Movil,Hogar,3186404,1686444,1499960,0.47,Premium,5
+342,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,2000937,1532224,468713,0.23,Corporativo,5
+343,2025-01-01,Mexico,Bogota,App Movil,Oficina,4507176,2135870,2371306,0.53,Premium,2
+344,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,3570410,1871651,1698759,0.48,Premium,1
+345,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,4541075,2878025,1663050,0.37,Premium,5
+346,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,3380844,1745936,1634908,0.48,Premium,4
+347,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,4439883,3439532,1000351,0.23,Premium,5
+348,2025-01-01,Colombia,Cartagena,App Movil,Hogar,897332,675010,222322,0.25,Basico,2
+349,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,1165225,546102,619123,0.53,Premium,5
+350,2025-01-01,Colombia,Cartagena,App Movil,Oficina,1771499,1196347,575152,0.32,Corporativo,1
+351,2025-01-01,Mexico,Lima,App Movil,Hogar,4280999,3374403,906596,0.21,Basico,1
+352,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,937127,733207,203920,0.22,Basico,3
+353,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,142200,84582,57618,0.41,Premium,2
+354,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,1342342,672756,669586,0.5,Basico,2
+355,2025-01-01,Colombia,Bogota,App Movil,Hogar,2424588,1372384,1052204,0.43,Corporativo,1
+356,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1629046,1249667,379379,0.23,Corporativo,5
+357,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3564709,1992001,1572708,0.44,Premium,2
+358,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,575858,276742,299116,0.52,Corporativo,4
+359,2025-01-01,Colombia,Lima,App Movil,Hogar,927331,443902,483429,0.52,Basico,4
+360,2025-01-01,Colombia,Lima,App Movil,Hogar,3801783,1891098,1910685,0.5,Corporativo,1
+361,2025-01-01,Chile,Santiago,App Movil,Hogar,2586003,2117621,468382,0.18,Premium,1
+362,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,3761148,2061561,1699587,0.45,Basico,3
+363,2025-01-01,Mexico,Lima,Ecommerce,Hogar,2454543,1821016,633527,0.26,Basico,1
+364,2025-01-01,Chile,Lima,App Movil,Hogar,789705,582440,207265,0.26,Premium,2
+365,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,3246529,2492158,754371,0.23,Corporativo,3
+366,2025-01-01,Chile,Santiago,App Movil,Hogar,3719619,2518378,1201241,0.32,Basico,1
+367,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,1951881,1009158,942723,0.48,Basico,4
+368,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,1478829,1254570,224259,0.15,Basico,5
+369,2025-01-01,Peru,Lima,App Movil,Tecnologia,1763564,1179087,584477,0.33,Basico,1
+370,2025-01-01,Colombia,Lima,App Movil,Oficina,4047910,3044082,1003828,0.25,Basico,5
+371,2025-01-01,Chile,Santiago,App Movil,Tecnologia,2042134,1419450,622684,0.3,Corporativo,2
+372,2025-01-01,Chile,Santiago,App Movil,Hogar,1043022,717428,325594,0.31,Premium,4
+373,2025-01-01,Mexico,Bogota,App Movil,Hogar,3718838,2399493,1319345,0.35,Corporativo,1
+374,2025-01-01,Chile,Lima,App Movil,Oficina,3038530,2098157,940373,0.31,Premium,1
+375,2025-01-01,Chile,Bogota,App Movil,Oficina,3020265,1548649,1471616,0.49,Basico,1
+376,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,1885174,1221661,663513,0.35,Basico,3
+377,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,3579642,2707655,871987,0.24,Corporativo,1
+378,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,4386405,3331739,1054666,0.24,Premium,1
+379,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,3289792,1508836,1780956,0.54,Corporativo,1
+380,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,903032,718905,184127,0.2,Corporativo,5
+381,2025-01-01,Mexico,Lima,Ecommerce,Hogar,692137,404054,288083,0.42,Basico,2
+382,2025-01-01,Peru,Bogota,App Movil,Tecnologia,3474259,2776828,697431,0.2,Premium,4
+383,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,4532346,3484092,1048254,0.23,Corporativo,2
+384,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,3384920,2386563,998357,0.29,Premium,2
+385,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,529993,308767,221226,0.42,Basico,1
+386,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,3747463,1704460,2043003,0.55,Premium,5
+387,2025-01-01,Peru,Lima,Ecommerce,Hogar,4647519,2104386,2543133,0.55,Premium,5
+388,2025-01-01,Chile,Santiago,App Movil,Oficina,1929536,1177234,752302,0.39,Corporativo,1
+389,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,2569412,1791398,778014,0.3,Premium,3
+390,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2929714,2204197,725517,0.25,Basico,4
+391,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,1185569,552766,632803,0.53,Corporativo,3
+392,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,503409,288249,215160,0.43,Premium,4
+393,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,1122499,921722,200777,0.18,Basico,2
+394,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,4307930,2082846,2225084,0.52,Premium,4
+395,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,4667603,3632236,1035367,0.22,Basico,5
+396,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,2604685,1971450,633235,0.24,Corporativo,1
+397,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,3844492,2803293,1041199,0.27,Corporativo,3
+398,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,4438235,3334551,1103684,0.25,Corporativo,2
+399,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,4103382,2588237,1515145,0.37,Corporativo,5
+400,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,841683,658313,183370,0.22,Premium,4
+401,2025-01-01,Mexico,Cartagena,App Movil,Hogar,161810,111353,50457,0.31,Corporativo,5
+402,2025-01-01,Peru,Cartagena,App Movil,Oficina,344730,246236,98494,0.29,Basico,4
+403,2025-01-01,Colombia,Santiago,App Movil,Oficina,3694056,1998674,1695382,0.46,Premium,5
+404,2025-01-01,Colombia,Cartagena,App Movil,Oficina,1804947,1065145,739802,0.41,Premium,3
+405,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,3135966,2164794,971172,0.31,Corporativo,3
+406,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1249390,966355,283035,0.23,Corporativo,2
+407,2025-01-01,Peru,Lima,App Movil,Hogar,3000582,1849164,1151418,0.38,Premium,4
+408,2025-01-01,Mexico,Cartagena,App Movil,Oficina,1443155,872100,571055,0.4,Corporativo,3
+409,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,515392,406949,108443,0.21,Basico,5
+410,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,2209033,1557608,651425,0.29,Basico,5
+411,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,3757800,1818520,1939280,0.52,Corporativo,4
+412,2025-01-01,Peru,Lima,Ecommerce,Oficina,3307975,2163527,1144448,0.35,Basico,1
+413,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,4101073,2540440,1560633,0.38,Basico,1
+414,2025-01-01,Peru,Santiago,App Movil,Oficina,1404666,880249,524417,0.37,Premium,4
+415,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,2665862,1435894,1229968,0.46,Corporativo,5
+416,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,2102829,1636555,466274,0.22,Basico,3
+417,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,462555,284716,177839,0.38,Corporativo,5
+418,2025-01-01,Peru,Lima,Ecommerce,Hogar,1424357,1077133,347224,0.24,Premium,2
+419,2025-01-01,Chile,Bogota,App Movil,Tecnologia,3278583,2018260,1260323,0.38,Premium,1
+420,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,808861,612785,196076,0.24,Premium,1
+421,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,100058,77671,22387,0.22,Basico,1
+422,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1779800,992731,787069,0.44,Basico,2
+423,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,3444163,2314687,1129476,0.33,Basico,4
+424,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,1893854,860605,1033249,0.55,Premium,2
+425,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4766307,3974788,791519,0.17,Corporativo,3
+426,2025-01-01,Peru,Santiago,App Movil,Oficina,2153996,1435166,718830,0.33,Premium,5
+427,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,4324043,3316095,1007948,0.23,Corporativo,5
+428,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,1053571,587964,465607,0.44,Basico,5
+429,2025-01-01,Peru,Lima,App Movil,Hogar,2506093,1248622,1257471,0.5,Premium,3
+430,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,3633708,2858295,775413,0.21,Premium,2
+431,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,1362473,983117,379356,0.28,Corporativo,5
+432,2025-01-01,Mexico,Lima,App Movil,Hogar,690833,441497,249336,0.36,Corporativo,3
+433,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,4852109,4085468,766641,0.16,Premium,5
+434,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,3966395,2794081,1172314,0.3,Basico,3
+435,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,620067,281691,338376,0.55,Basico,4
+436,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,4325060,2605998,1719062,0.4,Basico,1
+437,2025-01-01,Chile,Lima,App Movil,Hogar,3519940,2401390,1118550,0.32,Corporativo,2
+438,2025-01-01,Peru,Santiago,Ecommerce,Oficina,4288484,2044458,2244026,0.52,Premium,1
+439,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,588603,455179,133424,0.23,Corporativo,5
+440,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,4789471,3083050,1706421,0.36,Premium,3
+441,2025-01-01,Peru,Santiago,App Movil,Tecnologia,4659256,2800347,1858909,0.4,Basico,1
+442,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,3279237,1562723,1716514,0.52,Premium,3
+443,2025-01-01,Chile,Bogota,Ecommerce,Hogar,4563926,2670185,1893741,0.41,Corporativo,3
+444,2025-01-01,Peru,Santiago,Ecommerce,Hogar,4945811,2741463,2204348,0.45,Premium,4
+445,2025-01-01,Chile,Santiago,App Movil,Oficina,4969563,2588778,2380785,0.48,Premium,2
+446,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,1805368,1017888,787480,0.44,Corporativo,2
+447,2025-01-01,Peru,Lima,App Movil,Oficina,1256715,758685,498030,0.4,Basico,2
+448,2025-01-01,Colombia,Bogota,App Movil,Hogar,2458977,1537770,921207,0.37,Basico,1
+449,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4069991,2917331,1152660,0.28,Basico,3
+450,2025-01-01,Chile,Lima,App Movil,Oficina,483686,301141,182545,0.38,Premium,3
+451,2025-01-01,Mexico,Lima,Ecommerce,Oficina,1846623,1469119,377504,0.2,Basico,2
+452,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,4048995,2709289,1339706,0.33,Basico,2
+453,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,1135418,942311,193107,0.17,Corporativo,4
+454,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,709005,566493,142512,0.2,Basico,1
+455,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,2256868,1277435,979433,0.43,Premium,1
+456,2025-01-01,Chile,Lima,App Movil,Hogar,3249645,1696348,1553297,0.48,Corporativo,3
+457,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,2991127,2225354,765773,0.26,Basico,3
+458,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,4532123,3028655,1503468,0.33,Corporativo,1
+459,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2417743,1876381,541362,0.22,Basico,4
+460,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,3397216,1947801,1449415,0.43,Premium,5
+461,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,3393936,2586467,807469,0.24,Premium,3
+462,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,4757350,3855288,902062,0.19,Basico,3
+463,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,1727336,1071324,656012,0.38,Basico,5
+464,2025-01-01,Chile,Bogota,App Movil,Tecnologia,3279473,2214674,1064799,0.32,Premium,4
+465,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4170504,2688296,1482208,0.36,Corporativo,3
+466,2025-01-01,Peru,Cartagena,App Movil,Oficina,4378923,2578935,1799988,0.41,Basico,5
+467,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,4111362,2067376,2043986,0.5,Corporativo,5
+468,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,2212976,1439336,773640,0.35,Premium,1
+469,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,3311192,2403538,907654,0.27,Premium,2
+470,2025-01-01,Chile,Lima,App Movil,Oficina,1865308,1555046,310262,0.17,Basico,2
+471,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,1851164,988423,862741,0.47,Premium,5
+472,2025-01-01,Peru,Cartagena,App Movil,Hogar,4748654,3254811,1493843,0.31,Corporativo,3
+473,2025-01-01,Colombia,Santiago,App Movil,Oficina,4117956,2774604,1343352,0.33,Corporativo,5
+474,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,3425726,1746037,1679689,0.49,Basico,3
+475,2025-01-01,Mexico,Santiago,App Movil,Oficina,2357606,1802747,554859,0.24,Basico,2
+476,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,842567,538803,303764,0.36,Basico,1
+477,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,474640,332139,142501,0.3,Corporativo,2
+478,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1836253,958685,877568,0.48,Premium,2
+479,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3724000,1711043,2012957,0.54,Corporativo,4
+480,2025-01-01,Peru,Bogota,App Movil,Tecnologia,1806501,838780,967721,0.54,Corporativo,2
+481,2025-01-01,Chile,Santiago,Ecommerce,Hogar,319891,183648,136243,0.43,Premium,2
+482,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,3299667,2111539,1188128,0.36,Corporativo,4
+483,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1794045,1342286,451759,0.25,Basico,4
+484,2025-01-01,Chile,Santiago,App Movil,Tecnologia,3539078,2392067,1147011,0.32,Basico,3
+485,2025-01-01,Colombia,Lima,Ecommerce,Hogar,269470,160167,109303,0.41,Premium,1
+486,2025-01-01,Chile,Lima,Ecommerce,Hogar,1945075,1448693,496382,0.26,Corporativo,1
+487,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,4865465,3737831,1127634,0.23,Basico,1
+488,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3311989,2679836,632153,0.19,Corporativo,1
+489,2025-01-01,Mexico,Lima,Ecommerce,Oficina,1697377,1376906,320471,0.19,Premium,4
+490,2025-01-01,Mexico,Lima,App Movil,Hogar,3693043,2461909,1231134,0.33,Premium,5
+491,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,2455199,1319009,1136190,0.46,Basico,2
+492,2025-01-01,Peru,Lima,App Movil,Oficina,4178967,3341186,837781,0.2,Corporativo,4
+493,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,4894770,2215433,2679337,0.55,Corporativo,2
+494,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,1439457,1147445,292012,0.2,Premium,4
+495,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,1546780,703835,842945,0.54,Premium,3
+496,2025-01-01,Peru,Santiago,App Movil,Hogar,1367837,849081,518756,0.38,Basico,4
+497,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3676255,2726304,949951,0.26,Corporativo,5
+498,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,1021759,593334,428425,0.42,Premium,3
+499,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,2332034,1381327,950707,0.41,Corporativo,4
+500,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,2478693,1989735,488958,0.2,Premium,1
+501,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1118077,780218,337859,0.3,Premium,4
+502,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,914840,456073,458767,0.5,Basico,1
+503,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,4599044,2769516,1829528,0.4,Basico,2
+504,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3583116,2403145,1179971,0.33,Corporativo,5
+505,2025-01-01,Mexico,Bogota,App Movil,Hogar,2169127,1185196,983931,0.45,Basico,5
+506,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,2088343,1292097,796246,0.38,Corporativo,3
+507,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4785599,3711226,1074373,0.22,Corporativo,4
+508,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,3588456,2691241,897215,0.25,Premium,3
+509,2025-01-01,Mexico,Lima,App Movil,Oficina,3734402,2517459,1216943,0.33,Premium,3
+510,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1420366,1026881,393485,0.28,Premium,4
+511,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,1199529,653094,546435,0.46,Premium,1
+512,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,4676295,3787762,888533,0.19,Basico,2
+513,2025-01-01,Peru,Bogota,App Movil,Tecnologia,1096649,929714,166935,0.15,Corporativo,5
+514,2025-01-01,Peru,Cartagena,App Movil,Oficina,1494443,836826,657617,0.44,Corporativo,2
+515,2025-01-01,Chile,Bogota,Ecommerce,Oficina,1053530,741479,312051,0.3,Corporativo,2
+516,2025-01-01,Colombia,Santiago,App Movil,Hogar,4633465,2504065,2129400,0.46,Basico,2
+517,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,2736473,1270025,1466448,0.54,Basico,1
+518,2025-01-01,Chile,Cartagena,App Movil,Oficina,3830242,2416434,1413808,0.37,Basico,3
+519,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,4391857,3034211,1357646,0.31,Premium,3
+520,2025-01-01,Peru,Santiago,Ecommerce,Hogar,4364448,3495056,869392,0.2,Corporativo,4
+521,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4851334,3249800,1601534,0.33,Premium,2
+522,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,1994473,1386702,607771,0.3,Premium,4
+523,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,1731938,1375723,356215,0.21,Premium,4
+524,2025-01-01,Peru,Santiago,App Movil,Oficina,2452542,1616621,835921,0.34,Corporativo,3
+525,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,1108603,834149,274454,0.25,Premium,4
+526,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,4136395,2956434,1179961,0.29,Corporativo,5
+527,2025-01-01,Peru,Cartagena,App Movil,Oficina,144300,71397,72903,0.51,Corporativo,4
+528,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,4129701,2113132,2016569,0.49,Corporativo,4
+529,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,470519,383869,86650,0.18,Premium,5
+530,2025-01-01,Chile,Santiago,Ecommerce,Oficina,3306818,2270895,1035923,0.31,Corporativo,2
+531,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,2523235,1150475,1372760,0.54,Basico,3
+532,2025-01-01,Mexico,Santiago,App Movil,Oficina,2138568,1789218,349350,0.16,Premium,4
+533,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,3473345,1908799,1564546,0.45,Basico,5
+534,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3972161,2587018,1385143,0.35,Premium,1
+535,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,3154012,2279626,874386,0.28,Premium,4
+536,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,986758,541264,445494,0.45,Premium,4
+537,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,4020101,3243268,776833,0.19,Basico,3
+538,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,3701214,2120958,1580256,0.43,Corporativo,4
+539,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1897430,883384,1014046,0.53,Premium,5
+540,2025-01-01,Mexico,Santiago,App Movil,Hogar,2521570,2062774,458796,0.18,Premium,5
+541,2025-01-01,Mexico,Lima,App Movil,Oficina,4676925,3233459,1443466,0.31,Basico,2
+542,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3791013,2563668,1227345,0.32,Premium,5
+543,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,1690366,997431,692935,0.41,Premium,1
+544,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,2503361,1955153,548208,0.22,Basico,1
+545,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2023605,1107084,916521,0.45,Corporativo,2
+546,2025-01-01,Peru,Cartagena,App Movil,Hogar,4751384,2486318,2265066,0.48,Basico,2
+547,2025-01-01,Mexico,Lima,App Movil,Tecnologia,3596304,2886014,710290,0.2,Premium,2
+548,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2534454,1535393,999061,0.39,Corporativo,3
+549,2025-01-01,Mexico,Santiago,App Movil,Oficina,873098,616291,256807,0.29,Corporativo,4
+550,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3784252,2094825,1689427,0.45,Corporativo,1
+551,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,1832057,1057176,774881,0.42,Basico,5
+552,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,773543,583395,190148,0.25,Premium,2
+553,2025-01-01,Peru,Santiago,App Movil,Oficina,950773,610987,339786,0.36,Basico,1
+554,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,4226891,2141432,2085459,0.49,Corporativo,5
+555,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,2166126,1614080,552046,0.25,Basico,1
+556,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,4544294,2476257,2068037,0.46,Corporativo,2
+557,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,2070619,1339522,731097,0.35,Corporativo,3
+558,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,2401684,1312283,1089401,0.45,Corporativo,1
+559,2025-01-01,Peru,Lima,App Movil,Oficina,1042661,662831,379830,0.36,Premium,4
+560,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,1548634,1090113,458521,0.3,Corporativo,2
+561,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,155640,127835,27805,0.18,Corporativo,4
+562,2025-01-01,Chile,Santiago,App Movil,Hogar,3297297,1613299,1683998,0.51,Corporativo,1
+563,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,2652760,1379464,1273296,0.48,Corporativo,1
+564,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,1476548,847711,628837,0.43,Corporativo,5
+565,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,200954,136675,64279,0.32,Basico,5
+566,2025-01-01,Mexico,Lima,App Movil,Tecnologia,4105257,3099089,1006168,0.25,Corporativo,5
+567,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,2765030,1344392,1420638,0.51,Basico,4
+568,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,644738,305457,339281,0.53,Basico,3
+569,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,1515022,1191121,323901,0.21,Corporativo,3
+570,2025-01-01,Peru,Bogota,Ecommerce,Oficina,2412746,1207487,1205259,0.5,Corporativo,1
+571,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,4708479,3569326,1139153,0.24,Basico,4
+572,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,4231904,3261705,970199,0.23,Premium,1
+573,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4595049,2091201,2503848,0.54,Premium,2
+574,2025-01-01,Colombia,Lima,Ecommerce,Oficina,3445998,2176743,1269255,0.37,Basico,2
+575,2025-01-01,Mexico,Bogota,App Movil,Hogar,2831649,1988021,843628,0.3,Basico,3
+576,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,2606213,1403347,1202866,0.46,Premium,4
+577,2025-01-01,Chile,Lima,App Movil,Hogar,4629522,3493155,1136367,0.25,Premium,5
+578,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,3422035,2121369,1300666,0.38,Corporativo,5
+579,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,3752216,2614677,1137539,0.3,Corporativo,1
+580,2025-01-01,Mexico,Lima,App Movil,Hogar,1917745,921535,996210,0.52,Basico,3
+581,2025-01-01,Peru,Santiago,App Movil,Hogar,2759976,1607199,1152777,0.42,Premium,4
+582,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,3555643,2304885,1250758,0.35,Premium,3
+583,2025-01-01,Chile,Bogota,Ecommerce,Hogar,1470708,1087377,383331,0.26,Corporativo,2
+584,2025-01-01,Peru,Lima,App Movil,Oficina,4387919,2767766,1620153,0.37,Basico,1
+585,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2882249,1693271,1188978,0.41,Basico,4
+586,2025-01-01,Colombia,Lima,App Movil,Oficina,3405391,1860900,1544491,0.45,Premium,4
+587,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,2058583,1017587,1040996,0.51,Corporativo,4
+588,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,4831634,2412138,2419496,0.5,Premium,5
+589,2025-01-01,Chile,Lima,Ecommerce,Hogar,4534433,3789953,744480,0.16,Premium,3
+590,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,4182245,2256514,1925731,0.46,Corporativo,3
+591,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,4537501,3438899,1098602,0.24,Corporativo,5
+592,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2667304,2072173,595131,0.22,Basico,1
+593,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4546204,3052414,1493790,0.33,Premium,5
+594,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,4533342,2955589,1577753,0.35,Premium,4
+595,2025-01-01,Peru,Bogota,App Movil,Oficina,3919869,3184382,735487,0.19,Basico,5
+596,2025-01-01,Colombia,Bogota,App Movil,Hogar,2897275,1761817,1135458,0.39,Basico,4
+597,2025-01-01,Mexico,Santiago,App Movil,Oficina,971706,691393,280313,0.29,Corporativo,4
+598,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,1122239,779052,343187,0.31,Basico,3
+599,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,4121434,3070047,1051387,0.26,Basico,3
+600,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,3589675,2276784,1312891,0.37,Premium,3
+601,2025-01-01,Mexico,Bogota,App Movil,Hogar,3090660,2362812,727848,0.24,Basico,3
+602,2025-01-01,Mexico,Santiago,App Movil,Oficina,1790210,1227097,563113,0.31,Corporativo,1
+603,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,2888154,1483583,1404571,0.49,Basico,5
+604,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,1933939,1298678,635261,0.33,Basico,5
+605,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,623916,309488,314428,0.5,Basico,2
+606,2025-01-01,Peru,Lima,Ecommerce,Oficina,4754733,3963059,791674,0.17,Premium,1
+607,2025-01-01,Colombia,Lima,App Movil,Hogar,4217451,2911302,1306149,0.31,Basico,1
+608,2025-01-01,Chile,Santiago,Ecommerce,Oficina,1204984,697505,507479,0.42,Basico,5
+609,2025-01-01,Chile,Santiago,Ecommerce,Oficina,3511337,2961915,549422,0.16,Corporativo,3
+610,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,2612282,2190063,422219,0.16,Premium,3
+611,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,4263357,2331341,1932016,0.45,Corporativo,3
+612,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,668978,402057,266921,0.4,Premium,3
+613,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,3276006,2719444,556562,0.17,Corporativo,1
+614,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4746277,3746507,999770,0.21,Premium,4
+615,2025-01-01,Peru,Lima,App Movil,Tecnologia,1040702,576686,464016,0.45,Premium,1
+616,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,1604285,1237031,367254,0.23,Corporativo,5
+617,2025-01-01,Peru,Santiago,Ecommerce,Hogar,3942312,2868372,1073940,0.27,Premium,4
+618,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1276552,627822,648730,0.51,Premium,3
+619,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1616565,966179,650386,0.4,Premium,4
+620,2025-01-01,Peru,Lima,App Movil,Tecnologia,1622702,831346,791356,0.49,Corporativo,1
+621,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,1708196,890903,817293,0.48,Premium,1
+622,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,1609959,1314674,295285,0.18,Basico,4
+623,2025-01-01,Mexico,Lima,App Movil,Hogar,1516825,963877,552948,0.36,Basico,2
+624,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,1973939,1416590,557349,0.28,Premium,5
+625,2025-01-01,Chile,Bogota,App Movil,Hogar,4841923,2386890,2455033,0.51,Basico,1
+626,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,3472270,2551281,920989,0.27,Premium,1
+627,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,139981,103481,36500,0.26,Corporativo,3
+628,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,117286,94308,22978,0.2,Premium,1
+629,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,395619,271329,124290,0.31,Premium,4
+630,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,4566855,2119394,2447461,0.54,Basico,5
+631,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,2918954,1793358,1125596,0.39,Corporativo,5
+632,2025-01-01,Peru,Santiago,App Movil,Tecnologia,4761623,2208155,2553468,0.54,Basico,5
+633,2025-01-01,Peru,Santiago,Ecommerce,Oficina,931446,790507,140939,0.15,Corporativo,3
+634,2025-01-01,Colombia,Lima,App Movil,Tecnologia,4192770,2006731,2186039,0.52,Corporativo,2
+635,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,2660388,2047336,613052,0.23,Premium,5
+636,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,4197349,2968720,1228629,0.29,Corporativo,2
+637,2025-01-01,Colombia,Lima,Ecommerce,Oficina,1883213,1175605,707608,0.38,Premium,4
+638,2025-01-01,Colombia,Cartagena,App Movil,Oficina,1369412,1136568,232844,0.17,Basico,3
+639,2025-01-01,Colombia,Lima,App Movil,Oficina,1699513,898200,801313,0.47,Basico,4
+640,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,237295,148626,88669,0.37,Premium,1
+641,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,1018575,790518,228057,0.22,Premium,2
+642,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,2511369,1601270,910099,0.36,Premium,5
+643,2025-01-01,Chile,Lima,App Movil,Oficina,4802096,2409411,2392685,0.5,Premium,4
+644,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,446962,319748,127214,0.28,Basico,4
+645,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3890183,2930585,959598,0.25,Premium,4
+646,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,3838735,2602222,1236513,0.32,Premium,4
+647,2025-01-01,Peru,Santiago,App Movil,Oficina,3704398,2325316,1379082,0.37,Premium,4
+648,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,2355777,1451790,903987,0.38,Basico,3
+649,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,629950,524335,105615,0.17,Basico,3
+650,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,3711982,3042759,669223,0.18,Corporativo,1
+651,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,2156129,1605557,550572,0.26,Premium,5
+652,2025-01-01,Chile,Santiago,Ecommerce,Hogar,649638,485509,164129,0.25,Corporativo,2
+653,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,994655,843162,151493,0.15,Premium,3
+654,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3089930,1775410,1314520,0.43,Basico,5
+655,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,4663767,2522555,2141212,0.46,Basico,3
+656,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,4216564,1955264,2261300,0.54,Premium,2
+657,2025-01-01,Peru,Bogota,Ecommerce,Hogar,336112,281731,54381,0.16,Basico,3
+658,2025-01-01,Chile,Bogota,Ecommerce,Hogar,722930,475419,247511,0.34,Corporativo,4
+659,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,779217,593199,186018,0.24,Basico,3
+660,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,604413,372494,231919,0.38,Premium,4
+661,2025-01-01,Chile,Santiago,Ecommerce,Oficina,4068180,2721414,1346766,0.33,Basico,2
+662,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,4672602,3204528,1468074,0.31,Premium,2
+663,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,200671,106744,93927,0.47,Corporativo,1
+664,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,2352070,1378447,973623,0.41,Premium,1
+665,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,169541,91124,78417,0.46,Basico,1
+666,2025-01-01,Colombia,Lima,Ecommerce,Hogar,2106200,1754289,351911,0.17,Corporativo,5
+667,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,2371238,1905567,465671,0.2,Corporativo,4
+668,2025-01-01,Peru,Lima,App Movil,Hogar,880899,543090,337809,0.38,Corporativo,5
+669,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2330187,1283042,1047145,0.45,Premium,2
+670,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,126811,96790,30021,0.24,Corporativo,3
+671,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2556895,1245768,1311127,0.51,Corporativo,1
+672,2025-01-01,Peru,Lima,App Movil,Oficina,2198429,1157049,1041380,0.47,Premium,5
+673,2025-01-01,Peru,Santiago,App Movil,Oficina,570869,343847,227022,0.4,Corporativo,5
+674,2025-01-01,Peru,Lima,App Movil,Tecnologia,1173074,742222,430852,0.37,Basico,2
+675,2025-01-01,Chile,Lima,App Movil,Hogar,1309655,918894,390761,0.3,Basico,1
+676,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,1303615,643082,660533,0.51,Corporativo,4
+677,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,2115326,1685583,429743,0.2,Premium,3
+678,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,3867081,1966094,1900987,0.49,Corporativo,4
+679,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,1341978,710167,631811,0.47,Basico,5
+680,2025-01-01,Peru,Santiago,Ecommerce,Oficina,2735724,1297029,1438695,0.53,Corporativo,4
+681,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3981767,2752987,1228780,0.31,Basico,5
+682,2025-01-01,Mexico,Lima,Ecommerce,Oficina,2692731,2275123,417608,0.16,Basico,4
+683,2025-01-01,Peru,Bogota,Ecommerce,Oficina,2501664,1504643,997021,0.4,Corporativo,3
+684,2025-01-01,Peru,Santiago,Ecommerce,Oficina,1069434,620022,449412,0.42,Basico,2
+685,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,751810,460244,291566,0.39,Corporativo,5
+686,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,2661557,2105216,556341,0.21,Corporativo,5
+687,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,4255334,1923435,2331899,0.55,Basico,4
+688,2025-01-01,Chile,Lima,Ecommerce,Hogar,3112593,1488304,1624289,0.52,Basico,2
+689,2025-01-01,Peru,Santiago,App Movil,Oficina,4259754,2193641,2066113,0.49,Basico,2
+690,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,4476978,2734426,1742552,0.39,Basico,4
+691,2025-01-01,Chile,Santiago,App Movil,Oficina,3826502,2412580,1413922,0.37,Basico,2
+692,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,4762936,3893856,869080,0.18,Corporativo,1
+693,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,1625199,1086883,538316,0.33,Basico,1
+694,2025-01-01,Chile,Lima,App Movil,Hogar,3808495,2184155,1624340,0.43,Premium,2
+695,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4392849,3708210,684639,0.16,Premium,5
+696,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,4251516,3365005,886511,0.21,Basico,2
+697,2025-01-01,Chile,Lima,Ecommerce,Hogar,1347606,1116748,230858,0.17,Premium,1
+698,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,2408320,1907612,500708,0.21,Corporativo,4
+699,2025-01-01,Mexico,Bogota,App Movil,Oficina,4080695,1882257,2198438,0.54,Corporativo,5
+700,2025-01-01,Chile,Bogota,Ecommerce,Oficina,1753045,1239432,513613,0.29,Corporativo,1
+701,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,2134291,1169502,964789,0.45,Basico,5
+702,2025-01-01,Peru,Bogota,App Movil,Oficina,2456175,1234381,1221794,0.5,Corporativo,3
+703,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,3568905,2606737,962168,0.27,Basico,4
+704,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,947269,678532,268737,0.28,Premium,2
+705,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,1444911,1108701,336210,0.23,Basico,2
+706,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,3997598,2792240,1205358,0.3,Corporativo,4
+707,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,4371923,3335755,1036168,0.24,Corporativo,1
+708,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,4891299,3981173,910126,0.19,Corporativo,1
+709,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,2066706,1118471,948235,0.46,Basico,2
+710,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4306308,3649387,656921,0.15,Premium,3
+711,2025-01-01,Chile,Lima,App Movil,Hogar,668431,318810,349621,0.52,Basico,3
+712,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,3520470,2866003,654467,0.19,Basico,5
+713,2025-01-01,Peru,Santiago,App Movil,Hogar,3925300,2502097,1423203,0.36,Premium,3
+714,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,461592,275275,186317,0.4,Basico,4
+715,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,4053297,2533801,1519496,0.37,Corporativo,2
+716,2025-01-01,Peru,Bogota,App Movil,Hogar,4204776,2452273,1752503,0.42,Basico,4
+717,2025-01-01,Chile,Lima,App Movil,Tecnologia,472388,224243,248145,0.53,Corporativo,1
+718,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,2892212,2040889,851323,0.29,Premium,1
+719,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4627542,2683472,1944070,0.42,Premium,5
+720,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1236965,728260,508705,0.41,Basico,4
+721,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,3799243,2662876,1136367,0.3,Premium,2
+722,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,1782407,970999,811408,0.46,Basico,1
+723,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,1764731,1253082,511649,0.29,Basico,2
+724,2025-01-01,Peru,Santiago,App Movil,Hogar,962893,726230,236663,0.25,Premium,2
+725,2025-01-01,Chile,Bogota,App Movil,Oficina,2272796,1116605,1156191,0.51,Corporativo,1
+726,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1497308,884605,612703,0.41,Corporativo,2
+727,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,4354324,2409360,1944964,0.45,Premium,1
+728,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,1795358,1146391,648967,0.36,Corporativo,1
+729,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,1609244,730674,878570,0.55,Corporativo,4
+730,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,1601375,898491,702884,0.44,Premium,1
+731,2025-01-01,Colombia,Santiago,App Movil,Oficina,1649614,889344,760270,0.46,Premium,5
+732,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,380038,233079,146959,0.39,Basico,1
+733,2025-01-01,Colombia,Bogota,App Movil,Oficina,3050282,2305083,745199,0.24,Premium,1
+734,2025-01-01,Chile,Santiago,App Movil,Hogar,818333,573212,245121,0.3,Basico,5
+735,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,1270415,814652,455763,0.36,Basico,4
+736,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,938546,439013,499533,0.53,Basico,5
+737,2025-01-01,Peru,Lima,App Movil,Tecnologia,4087156,2048096,2039060,0.5,Premium,2
+738,2025-01-01,Mexico,Bogota,App Movil,Hogar,200595,147299,53296,0.27,Premium,3
+739,2025-01-01,Mexico,Lima,App Movil,Tecnologia,3216593,1947824,1268769,0.39,Premium,2
+740,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,1910687,994953,915734,0.48,Premium,5
+741,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,4406979,3096684,1310295,0.3,Premium,2
+742,2025-01-01,Mexico,Santiago,App Movil,Oficina,2478977,1199755,1279222,0.52,Corporativo,4
+743,2025-01-01,Peru,Lima,App Movil,Oficina,2815841,1391950,1423891,0.51,Basico,4
+744,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,1604183,962294,641889,0.4,Premium,5
+745,2025-01-01,Mexico,Lima,Ecommerce,Oficina,3268897,2705973,562924,0.17,Corporativo,3
+746,2025-01-01,Chile,Lima,Ecommerce,Oficina,4357512,3102214,1255298,0.29,Basico,5
+747,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,2531802,1898399,633403,0.25,Premium,1
+748,2025-01-01,Mexico,Lima,App Movil,Hogar,4034710,2746659,1288051,0.32,Premium,1
+749,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,4114305,2433702,1680603,0.41,Corporativo,1
+750,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,3430226,2502880,927346,0.27,Basico,3
+751,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,757030,599306,157724,0.21,Basico,2
+752,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,2129356,1170376,958980,0.45,Corporativo,5
+753,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,304174,159503,144671,0.48,Basico,1
+754,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4315742,2388320,1927422,0.45,Corporativo,3
+755,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,1078392,857226,221166,0.21,Premium,4
+756,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,1229335,988451,240884,0.2,Corporativo,3
+757,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,4716246,3507590,1208656,0.26,Premium,5
+758,2025-01-01,Peru,Lima,App Movil,Hogar,1765382,857709,907673,0.51,Premium,5
+759,2025-01-01,Peru,Lima,Ecommerce,Hogar,871253,482839,388414,0.45,Basico,2
+760,2025-01-01,Mexico,Lima,Ecommerce,Hogar,1890962,1398359,492603,0.26,Basico,2
+761,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,2455264,1645191,810073,0.33,Premium,5
+762,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,1070725,524950,545775,0.51,Basico,2
+763,2025-01-01,Colombia,Lima,App Movil,Hogar,2859057,2207399,651658,0.23,Corporativo,1
+764,2025-01-01,Peru,Santiago,App Movil,Tecnologia,4810813,4078828,731985,0.15,Premium,1
+765,2025-01-01,Peru,Lima,App Movil,Hogar,4226134,2735901,1490233,0.35,Premium,2
+766,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,150417,111882,38535,0.26,Basico,1
+767,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2689081,1246051,1443030,0.54,Basico,4
+768,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,4939310,4036253,903057,0.18,Basico,5
+769,2025-01-01,Mexico,Bogota,App Movil,Hogar,3174285,2036887,1137398,0.36,Premium,2
+770,2025-01-01,Chile,Lima,App Movil,Tecnologia,3103239,2189146,914093,0.29,Premium,1
+771,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,1064260,854657,209603,0.2,Basico,2
+772,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2369858,1249623,1120235,0.47,Corporativo,4
+773,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3629308,1857537,1771771,0.49,Premium,1
+774,2025-01-01,Colombia,Lima,App Movil,Oficina,188190,113757,74433,0.4,Premium,2
+775,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,4924772,3972057,952715,0.19,Corporativo,4
+776,2025-01-01,Chile,Bogota,App Movil,Tecnologia,1048614,749327,299287,0.29,Basico,3
+777,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1212132,600655,611477,0.5,Premium,4
+778,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,3853552,2356266,1497286,0.39,Basico,1
+779,2025-01-01,Mexico,Lima,Ecommerce,Oficina,479278,392988,86290,0.18,Corporativo,4
+780,2025-01-01,Chile,Cartagena,App Movil,Hogar,1447186,871980,575206,0.4,Basico,2
+781,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,3007887,1767416,1240471,0.41,Basico,2
+782,2025-01-01,Peru,Bogota,App Movil,Oficina,4000594,3283366,717228,0.18,Premium,1
+783,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,3717614,1756208,1961406,0.53,Premium,4
+784,2025-01-01,Chile,Bogota,App Movil,Hogar,3772378,1836151,1936227,0.51,Premium,1
+785,2025-01-01,Chile,Bogota,App Movil,Tecnologia,2819920,2097030,722890,0.26,Basico,3
+786,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,253274,149427,103847,0.41,Premium,4
+787,2025-01-01,Peru,Lima,App Movil,Tecnologia,1750616,1408419,342197,0.2,Premium,5
+788,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,1987763,1095637,892126,0.45,Basico,1
+789,2025-01-01,Peru,Lima,App Movil,Hogar,4296862,2977750,1319112,0.31,Premium,5
+790,2025-01-01,Mexico,Cartagena,App Movil,Hogar,3035531,2225819,809712,0.27,Corporativo,2
+791,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,384156,282914,101242,0.26,Corporativo,2
+792,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,809067,368427,440640,0.54,Basico,4
+793,2025-01-01,Peru,Santiago,Ecommerce,Hogar,3913057,2247535,1665522,0.43,Premium,2
+794,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,3929350,3007416,921934,0.23,Corporativo,1
+795,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,1294487,839388,455099,0.35,Premium,5
+796,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,190932,87838,103094,0.54,Premium,2
+797,2025-01-01,Peru,Lima,Ecommerce,Hogar,4344222,3554712,789510,0.18,Premium,4
+798,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2844709,1763057,1081652,0.38,Corporativo,1
+799,2025-01-01,Peru,Cartagena,App Movil,Hogar,4870876,2400964,2469912,0.51,Basico,5
+800,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,3268748,2500281,768467,0.24,Premium,3
+801,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,3950291,2348223,1602068,0.41,Premium,4
+802,2025-01-01,Chile,Lima,Ecommerce,Hogar,727236,554519,172717,0.24,Premium,2
+803,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,1671795,950346,721449,0.43,Corporativo,1
+804,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4863856,2563120,2300736,0.47,Corporativo,4
+805,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,4281089,2596117,1684972,0.39,Basico,4
+806,2025-01-01,Peru,Bogota,Ecommerce,Oficina,2542879,2030343,512536,0.2,Corporativo,3
+807,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,3568894,2493346,1075548,0.3,Basico,5
+808,2025-01-01,Chile,Bogota,App Movil,Hogar,2688978,1537761,1151217,0.43,Corporativo,4
+809,2025-01-01,Peru,Bogota,App Movil,Oficina,1936378,1245348,691030,0.36,Premium,5
+810,2025-01-01,Colombia,Cartagena,App Movil,Hogar,4734587,2914386,1820201,0.38,Basico,4
+811,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,3842897,3046864,796033,0.21,Premium,2
+812,2025-01-01,Peru,Santiago,App Movil,Hogar,486957,234761,252196,0.52,Basico,2
+813,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,1112898,766208,346690,0.31,Premium,1
+814,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,4696449,3397766,1298683,0.28,Corporativo,5
+815,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,4244216,2416081,1828135,0.43,Corporativo,4
+816,2025-01-01,Chile,Santiago,Ecommerce,Oficina,1462102,1040669,421433,0.29,Basico,4
+817,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,4550198,3569527,980671,0.22,Basico,2
+818,2025-01-01,Chile,Santiago,App Movil,Oficina,2412639,1826132,586507,0.24,Basico,5
+819,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,2550677,1663386,887291,0.35,Basico,4
+820,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2098154,1698929,399225,0.19,Corporativo,4
+821,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,1410494,1158426,252068,0.18,Corporativo,3
+822,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4841571,3552179,1289392,0.27,Corporativo,1
+823,2025-01-01,Chile,Cartagena,App Movil,Oficina,379427,190228,189199,0.5,Basico,4
+824,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,217017,158720,58297,0.27,Corporativo,3
+825,2025-01-01,Chile,Bogota,App Movil,Hogar,3821050,2394217,1426833,0.37,Corporativo,5
+826,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,693020,581616,111404,0.16,Corporativo,3
+827,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4513489,3330574,1182915,0.26,Basico,2
+828,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,2156695,1784441,372254,0.17,Corporativo,5
+829,2025-01-01,Mexico,Bogota,App Movil,Hogar,4911944,3472818,1439126,0.29,Corporativo,4
+830,2025-01-01,Chile,Bogota,Ecommerce,Hogar,146038,116787,29251,0.2,Premium,3
+831,2025-01-01,Peru,Lima,App Movil,Tecnologia,3727695,2914481,813214,0.22,Basico,1
+832,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,3370691,2751997,618694,0.18,Basico,2
+833,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,1036008,491812,544196,0.53,Corporativo,4
+834,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,3355900,2211058,1144842,0.34,Basico,1
+835,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3781209,1724018,2057191,0.54,Premium,4
+836,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4044959,1851900,2193059,0.54,Basico,4
+837,2025-01-01,Peru,Cartagena,App Movil,Hogar,4663148,3056682,1606466,0.34,Premium,3
+838,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,570083,290435,279648,0.49,Basico,1
+839,2025-01-01,Chile,Bogota,Ecommerce,Oficina,2061716,1501354,560362,0.27,Basico,3
+840,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,3638876,2898935,739941,0.2,Basico,4
+841,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,693394,567082,126312,0.18,Premium,2
+842,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,618370,311231,307139,0.5,Corporativo,4
+843,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,3329856,1529037,1800819,0.54,Basico,5
+844,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,463650,301998,161652,0.35,Basico,2
+845,2025-01-01,Colombia,Santiago,App Movil,Hogar,1413993,1174149,239844,0.17,Basico,5
+846,2025-01-01,Chile,Santiago,App Movil,Hogar,2109308,1539948,569360,0.27,Corporativo,3
+847,2025-01-01,Peru,Santiago,App Movil,Hogar,436321,329502,106819,0.24,Premium,4
+848,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,4377207,2185925,2191282,0.5,Basico,5
+849,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,3059081,2328298,730783,0.24,Corporativo,1
+850,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4361443,3663313,698130,0.16,Basico,2
+851,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,458149,224714,233435,0.51,Basico,2
+852,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,1384755,894897,489858,0.35,Corporativo,1
+853,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,1185207,790624,394583,0.33,Premium,2
+854,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,2583669,2085855,497814,0.19,Basico,4
+855,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,2887956,1922952,965004,0.33,Basico,1
+856,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,2339506,1337608,1001898,0.43,Corporativo,2
+857,2025-01-01,Peru,Cartagena,App Movil,Hogar,516663,351401,165262,0.32,Basico,2
+858,2025-01-01,Peru,Bogota,Ecommerce,Hogar,4242657,2587702,1654955,0.39,Corporativo,1
+859,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,3176004,1717205,1458799,0.46,Basico,5
+860,2025-01-01,Chile,Bogota,Ecommerce,Oficina,346450,227353,119097,0.34,Corporativo,1
+861,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,1374841,995896,378945,0.28,Corporativo,4
+862,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3614755,1881815,1732940,0.48,Corporativo,1
+863,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,652798,426820,225978,0.35,Basico,2
+864,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,1256015,992168,263847,0.21,Corporativo,4
+865,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,1602875,740567,862308,0.54,Basico,4
+866,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,1168261,704509,463752,0.4,Basico,5
+867,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,1101737,509653,592084,0.54,Premium,5
+868,2025-01-01,Colombia,Lima,Ecommerce,Hogar,846308,525088,321220,0.38,Premium,1
+869,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,1884268,1212087,672181,0.36,Corporativo,1
+870,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,750602,479966,270636,0.36,Premium,4
+871,2025-01-01,Mexico,Lima,Ecommerce,Hogar,1422328,676934,745394,0.52,Basico,2
+872,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,1347977,818415,529562,0.39,Basico,4
+873,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,1758237,1246038,512199,0.29,Basico,5
+874,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,2916453,1520812,1395641,0.48,Basico,1
+875,2025-01-01,Colombia,Lima,App Movil,Oficina,1226542,978110,248432,0.2,Basico,1
+876,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,822684,496920,325764,0.4,Premium,5
+877,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,4556978,2237694,2319284,0.51,Premium,3
+878,2025-01-01,Peru,Cartagena,App Movil,Hogar,1532821,958196,574625,0.37,Premium,3
+879,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,2225770,1707878,517892,0.23,Basico,1
+880,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,3602139,2530036,1072103,0.3,Basico,2
+881,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,700998,430950,270048,0.39,Basico,4
+882,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1246119,602378,643741,0.52,Corporativo,4
+883,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,2607297,2212385,394912,0.15,Corporativo,2
+884,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,2651742,2013887,637855,0.24,Premium,5
+885,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,1880779,1095394,785385,0.42,Premium,3
+886,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,4754066,3143960,1610106,0.34,Corporativo,3
+887,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,4951548,2788915,2162633,0.44,Basico,5
+888,2025-01-01,Chile,Santiago,App Movil,Oficina,2219636,1041049,1178587,0.53,Premium,5
+889,2025-01-01,Colombia,Lima,App Movil,Hogar,382877,213454,169423,0.44,Corporativo,4
+890,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,2799755,1390721,1409034,0.5,Basico,3
+891,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1511882,997879,514003,0.34,Basico,5
+892,2025-01-01,Mexico,Cartagena,App Movil,Hogar,620352,327383,292969,0.47,Basico,4
+893,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,4743369,2286099,2457270,0.52,Basico,5
+894,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,612648,420029,192619,0.31,Corporativo,3
+895,2025-01-01,Peru,Lima,App Movil,Hogar,2631726,1986094,645632,0.25,Basico,5
+896,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4593499,2353303,2240196,0.49,Corporativo,4
+897,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,672285,410422,261863,0.39,Corporativo,1
+898,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,3312018,1564342,1747676,0.53,Basico,2
+899,2025-01-01,Peru,Lima,Ecommerce,Hogar,4571697,3549774,1021923,0.22,Corporativo,3
+900,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,4541488,2880644,1660844,0.37,Basico,1
+901,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,1644561,1396564,247997,0.15,Premium,4
+902,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,1558929,899392,659537,0.42,Basico,2
+903,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4305473,2029633,2275840,0.53,Basico,1
+904,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,3553531,2121575,1431956,0.4,Basico,4
+905,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,3721902,2214968,1506934,0.4,Premium,3
+906,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,2225866,1668993,556873,0.25,Corporativo,5
+907,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,3510030,2077560,1432470,0.41,Corporativo,1
+908,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,4058336,1832492,2225844,0.55,Premium,2
+909,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,3727215,2160712,1566503,0.42,Premium,2
+910,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,3438071,2199715,1238356,0.36,Corporativo,4
+911,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,737534,334277,403257,0.55,Premium,5
+912,2025-01-01,Peru,Bogota,App Movil,Tecnologia,2155330,1201850,953480,0.44,Corporativo,4
+913,2025-01-01,Chile,Santiago,App Movil,Oficina,1387750,649414,738336,0.53,Corporativo,1
+914,2025-01-01,Chile,Lima,App Movil,Oficina,3738151,1857951,1880200,0.5,Premium,5
+915,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,4129747,3450419,679328,0.16,Premium,2
+916,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,423220,257276,165944,0.39,Premium,5
+917,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,712732,509184,203548,0.29,Premium,5
+918,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4870045,3309609,1560436,0.32,Corporativo,2
+919,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4484214,3341952,1142262,0.25,Corporativo,1
+920,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,3887321,3046637,840684,0.22,Premium,2
+921,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,1048089,547164,500925,0.48,Basico,4
+922,2025-01-01,Mexico,Cartagena,App Movil,Hogar,2754306,1820245,934061,0.34,Corporativo,4
+923,2025-01-01,Peru,Bogota,Ecommerce,Oficina,592308,375730,216578,0.37,Premium,4
+924,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,2047312,1570743,476569,0.23,Premium,4
+925,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,4045273,2139430,1905843,0.47,Corporativo,4
+926,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,2065753,1429223,636530,0.31,Premium,3
+927,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,4518075,3572773,945302,0.21,Basico,2
+928,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,1359084,657668,701416,0.52,Basico,1
+929,2025-01-01,Chile,Santiago,Ecommerce,Hogar,503616,247758,255858,0.51,Premium,2
+930,2025-01-01,Colombia,Lima,App Movil,Hogar,422641,200366,222275,0.53,Premium,4
+931,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,1252457,923992,328465,0.26,Premium,1
+932,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3288633,2379122,909511,0.28,Basico,1
+933,2025-01-01,Chile,Bogota,Ecommerce,Hogar,1356894,899280,457614,0.34,Basico,3
+934,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4506693,2781087,1725606,0.38,Premium,1
+935,2025-01-01,Chile,Bogota,App Movil,Hogar,589414,400983,188431,0.32,Corporativo,4
+936,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,817030,627956,189074,0.23,Premium,5
+937,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,821015,616389,204626,0.25,Corporativo,4
+938,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,533862,392254,141608,0.27,Basico,4
+939,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,1535658,813183,722475,0.47,Basico,1
+940,2025-01-01,Chile,Santiago,Ecommerce,Hogar,4600658,3536973,1063685,0.23,Premium,5
+941,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4304426,2380977,1923449,0.45,Basico,3
+942,2025-01-01,Chile,Santiago,Ecommerce,Oficina,1399888,1034521,365367,0.26,Basico,5
+943,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,926108,647078,279030,0.3,Basico,2
+944,2025-01-01,Peru,Lima,App Movil,Hogar,4675496,2870959,1804537,0.39,Premium,3
+945,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,4051526,1911218,2140308,0.53,Corporativo,3
+946,2025-01-01,Mexico,Bogota,App Movil,Hogar,1409454,842879,566575,0.4,Premium,3
+947,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,3510971,2526163,984808,0.28,Basico,2
+948,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,4107693,1949565,2158128,0.53,Corporativo,5
+949,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,731553,582189,149364,0.2,Premium,1
+950,2025-01-01,Peru,Lima,App Movil,Tecnologia,1138112,822148,315964,0.28,Basico,5
+951,2025-01-01,Peru,Bogota,App Movil,Hogar,528819,393942,134877,0.26,Basico,2
+952,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,2330684,1888577,442107,0.19,Corporativo,1
+953,2025-01-01,Peru,Lima,App Movil,Tecnologia,4180378,3513813,666565,0.16,Basico,4
+954,2025-01-01,Chile,Bogota,Ecommerce,Hogar,4270963,2290752,1980211,0.46,Corporativo,2
+955,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,2175854,1167418,1008436,0.46,Premium,1
+956,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,391835,272376,119459,0.3,Premium,2
+957,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,1658972,1106879,552093,0.33,Corporativo,1
+958,2025-01-01,Mexico,Bogota,App Movil,Hogar,3183879,1518194,1665685,0.52,Premium,1
+959,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2208509,1563934,644575,0.29,Corporativo,2
+960,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3167795,2613804,553991,0.17,Basico,4
+961,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,3693387,2123225,1570162,0.43,Corporativo,1
+962,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3420275,1839201,1581074,0.46,Premium,3
+963,2025-01-01,Colombia,Cartagena,App Movil,Hogar,1828832,1051751,777081,0.42,Premium,1
+964,2025-01-01,Peru,Santiago,App Movil,Oficina,1338801,830623,508178,0.38,Corporativo,2
+965,2025-01-01,Peru,Lima,Ecommerce,Hogar,2652253,1858285,793968,0.3,Premium,2
+966,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,3917005,3301058,615947,0.16,Basico,1
+967,2025-01-01,Chile,Santiago,Ecommerce,Hogar,2149055,1556425,592630,0.28,Basico,5
+968,2025-01-01,Colombia,Lima,App Movil,Hogar,1445635,1214985,230650,0.16,Premium,1
+969,2025-01-01,Mexico,Bogota,App Movil,Oficina,4168817,2545986,1622831,0.39,Basico,2
+970,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,3255497,1830852,1424645,0.44,Premium,4
+971,2025-01-01,Mexico,Cartagena,App Movil,Hogar,2240991,1767961,473030,0.21,Corporativo,4
+972,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,3176724,1798522,1378202,0.43,Corporativo,5
+973,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,3481527,2446695,1034832,0.3,Basico,5
+974,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,2907307,2347780,559527,0.19,Basico,5
+975,2025-01-01,Peru,Santiago,App Movil,Oficina,3315489,1967694,1347795,0.41,Corporativo,5
+976,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,1894616,1413842,480774,0.25,Corporativo,1
+977,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,4582873,2931701,1651172,0.36,Corporativo,4
+978,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,4347086,2321319,2025767,0.47,Basico,1
+979,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,2499690,1885995,613695,0.25,Corporativo,3
+980,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,2606965,1195172,1411793,0.54,Premium,2
+981,2025-01-01,Peru,Lima,Ecommerce,Oficina,814409,657014,157395,0.19,Basico,1
+982,2025-01-01,Mexico,Lima,App Movil,Oficina,2937775,1726958,1210817,0.41,Basico,2
+983,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,2723281,1883837,839444,0.31,Basico,1
+984,2025-01-01,Peru,Lima,Ecommerce,Hogar,589371,287538,301833,0.51,Corporativo,2
+985,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,3269003,2177953,1091050,0.33,Basico,2
+986,2025-01-01,Peru,Bogota,App Movil,Hogar,4261307,2875395,1385912,0.33,Basico,4
+987,2025-01-01,Chile,Bogota,App Movil,Oficina,1346260,954256,392004,0.29,Corporativo,1
+988,2025-01-01,Colombia,Cartagena,App Movil,Oficina,3315066,2003259,1311807,0.4,Corporativo,2
+989,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4108724,2047702,2061022,0.5,Corporativo,5
+990,2025-01-01,Mexico,Lima,Ecommerce,Oficina,1227738,965404,262334,0.21,Basico,2
+991,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,814640,419355,395285,0.49,Premium,3
+992,2025-01-01,Peru,Bogota,Ecommerce,Oficina,4141486,2657327,1484159,0.36,Basico,1
+993,2025-01-01,Chile,Santiago,App Movil,Oficina,360611,275883,84728,0.23,Premium,4
+994,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,2116013,1456802,659211,0.31,Basico,1
+995,2025-01-01,Colombia,Lima,Ecommerce,Hogar,4184532,2499715,1684817,0.4,Corporativo,5
+996,2025-01-01,Mexico,Lima,App Movil,Hogar,2528113,1473564,1054549,0.42,Premium,1
+997,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,691397,346127,345270,0.5,Basico,5
+998,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3127448,1519613,1607835,0.51,Basico,4
+999,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1118687,820916,297771,0.27,Premium,2
+1000,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,1410598,814212,596386,0.42,Corporativo,5
+1001,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,2928496,1873218,1055278,0.36,Corporativo,4
+1002,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,1019470,735379,284091,0.28,Basico,4
+1003,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,4316629,2605801,1710828,0.4,Basico,1
+1004,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,3750720,2291287,1459433,0.39,Premium,1
+1005,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4873402,3881025,992377,0.2,Basico,5
+1006,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,4971181,3139713,1831468,0.37,Corporativo,5
+1007,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,1862391,1192207,670184,0.36,Premium,3
+1008,2025-01-01,Colombia,Lima,App Movil,Tecnologia,2944653,1663076,1281577,0.44,Corporativo,2
+1009,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,4353460,3648279,705181,0.16,Basico,2
+1010,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,2070399,938799,1131600,0.55,Basico,5
+1011,2025-01-01,Mexico,Lima,App Movil,Hogar,4517089,3347589,1169500,0.26,Premium,5
+1012,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,3426641,1912227,1514414,0.44,Basico,2
+1013,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4076837,2983360,1093477,0.27,Premium,3
+1014,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3963823,2666234,1297589,0.33,Corporativo,1
+1015,2025-01-01,Colombia,Santiago,App Movil,Oficina,4307375,1972573,2334802,0.54,Corporativo,4
+1016,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,2294049,1597914,696135,0.3,Corporativo,5
+1017,2025-01-01,Peru,Lima,App Movil,Oficina,2893101,2258809,634292,0.22,Corporativo,2
+1018,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3991581,2043595,1947986,0.49,Corporativo,3
+1019,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,1736453,1101425,635028,0.37,Corporativo,2
+1020,2025-01-01,Chile,Santiago,App Movil,Tecnologia,1557237,1267216,290021,0.19,Corporativo,1
+1021,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,822018,405085,416933,0.51,Premium,3
+1022,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1441378,1193677,247701,0.17,Corporativo,2
+1023,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3963206,3283457,679749,0.17,Corporativo,5
+1024,2025-01-01,Colombia,Cartagena,App Movil,Oficina,1893487,970626,922861,0.49,Premium,3
+1025,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,2959981,1703844,1256137,0.42,Premium,4
+1026,2025-01-01,Peru,Lima,App Movil,Tecnologia,3777243,2315522,1461721,0.39,Premium,2
+1027,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,3456447,2052063,1404384,0.41,Premium,5
+1028,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,2014734,1035517,979217,0.49,Premium,4
+1029,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,2409373,1646187,763186,0.32,Premium,3
+1030,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,1454909,1010471,444438,0.31,Corporativo,4
+1031,2025-01-01,Mexico,Santiago,App Movil,Hogar,737199,613990,123209,0.17,Premium,3
+1032,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,366260,254181,112079,0.31,Corporativo,5
+1033,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3113165,1895410,1217755,0.39,Corporativo,1
+1034,2025-01-01,Chile,Santiago,App Movil,Hogar,3988219,2355591,1632628,0.41,Premium,3
+1035,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3821523,3149804,671719,0.18,Basico,4
+1036,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2235932,1745466,490466,0.22,Basico,5
+1037,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4251598,3508165,743433,0.17,Corporativo,2
+1038,2025-01-01,Mexico,Cartagena,App Movil,Oficina,2130585,1069397,1061188,0.5,Premium,1
+1039,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,2887125,2387344,499781,0.17,Corporativo,1
+1040,2025-01-01,Mexico,Santiago,App Movil,Oficina,1801658,1368963,432695,0.24,Corporativo,4
+1041,2025-01-01,Chile,Santiago,App Movil,Tecnologia,598782,307747,291035,0.49,Corporativo,3
+1042,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,4541425,2149411,2392014,0.53,Premium,1
+1043,2025-01-01,Colombia,Bogota,App Movil,Hogar,4587041,2152875,2434166,0.53,Premium,2
+1044,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2613908,1180017,1433891,0.55,Corporativo,5
+1045,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,1812194,927229,884965,0.49,Corporativo,2
+1046,2025-01-01,Peru,Bogota,App Movil,Oficina,2556215,1745751,810464,0.32,Corporativo,2
+1047,2025-01-01,Chile,Santiago,Ecommerce,Hogar,3784776,2175678,1609098,0.43,Basico,5
+1048,2025-01-01,Colombia,Santiago,App Movil,Hogar,4518406,2969670,1548736,0.34,Premium,2
+1049,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,1607634,1109739,497895,0.31,Corporativo,5
+1050,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,3608241,2714782,893459,0.25,Basico,2
+1051,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,3076039,1846233,1229806,0.4,Premium,5
+1052,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,2538589,1150258,1388331,0.55,Corporativo,5
+1053,2025-01-01,Colombia,Bogota,App Movil,Hogar,3159200,2626597,532603,0.17,Basico,4
+1054,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,4391396,3720134,671262,0.15,Corporativo,4
+1055,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,2599545,1514344,1085201,0.42,Basico,2
+1056,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,1674303,1371377,302926,0.18,Corporativo,3
+1057,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1498277,1013480,484797,0.32,Premium,1
+1058,2025-01-01,Peru,Bogota,App Movil,Oficina,3193302,1599981,1593321,0.5,Corporativo,1
+1059,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,121344,59466,61878,0.51,Corporativo,5
+1060,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,4560975,2265382,2295593,0.5,Corporativo,3
+1061,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,2200714,1125528,1075186,0.49,Corporativo,3
+1062,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1568432,817871,750561,0.48,Basico,5
+1063,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,3234514,2161811,1072703,0.33,Premium,3
+1064,2025-01-01,Peru,Bogota,App Movil,Hogar,2905303,1348610,1556693,0.54,Premium,3
+1065,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1322976,854093,468883,0.35,Premium,4
+1066,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,940025,451314,488711,0.52,Corporativo,1
+1067,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,2086195,1189186,897009,0.43,Corporativo,2
+1068,2025-01-01,Colombia,Santiago,App Movil,Oficina,461747,232430,229317,0.5,Basico,3
+1069,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,3307200,2039311,1267889,0.38,Basico,5
+1070,2025-01-01,Peru,Santiago,App Movil,Oficina,1795887,944169,851718,0.47,Corporativo,1
+1071,2025-01-01,Colombia,Bogota,App Movil,Hogar,3808445,3042271,766174,0.2,Corporativo,1
+1072,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,2443332,1513950,929382,0.38,Premium,5
+1073,2025-01-01,Peru,Bogota,App Movil,Hogar,2572615,1580546,992069,0.39,Basico,4
+1074,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,4902652,3314778,1587874,0.32,Corporativo,5
+1075,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,4099405,3401433,697972,0.17,Corporativo,5
+1076,2025-01-01,Peru,Cartagena,App Movil,Hogar,3421832,2408894,1012938,0.3,Basico,3
+1077,2025-01-01,Colombia,Lima,Ecommerce,Oficina,4027225,1918103,2109122,0.52,Corporativo,1
+1078,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,3476771,2835832,640939,0.18,Corporativo,2
+1079,2025-01-01,Colombia,Santiago,App Movil,Hogar,2540600,1365860,1174740,0.46,Premium,4
+1080,2025-01-01,Colombia,Santiago,App Movil,Hogar,4975697,2528551,2447146,0.49,Premium,2
+1081,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,3928463,2142844,1785619,0.45,Corporativo,1
+1082,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,1030612,551499,479113,0.46,Basico,5
+1083,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,837584,657214,180370,0.22,Premium,3
+1084,2025-01-01,Mexico,Lima,Ecommerce,Oficina,3325814,2035290,1290524,0.39,Premium,4
+1085,2025-01-01,Chile,Lima,App Movil,Hogar,3652117,2407522,1244595,0.34,Basico,2
+1086,2025-01-01,Chile,Cartagena,App Movil,Hogar,957771,699150,258621,0.27,Basico,3
+1087,2025-01-01,Mexico,Cartagena,App Movil,Hogar,4185013,2554032,1630981,0.39,Corporativo,4
+1088,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3459034,2727389,731645,0.21,Basico,2
+1089,2025-01-01,Chile,Bogota,App Movil,Hogar,929589,467996,461593,0.5,Basico,5
+1090,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,3888957,2329551,1559406,0.4,Premium,3
+1091,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,4482000,3775637,706363,0.16,Premium,1
+1092,2025-01-01,Colombia,Santiago,App Movil,Oficina,3994360,2017763,1976597,0.49,Basico,2
+1093,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,2698563,2042495,656068,0.24,Premium,2
+1094,2025-01-01,Chile,Bogota,App Movil,Oficina,2520845,1204743,1316102,0.52,Premium,1
+1095,2025-01-01,Mexico,Lima,Ecommerce,Hogar,2065542,1277754,787788,0.38,Basico,3
+1096,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,2055520,1672127,383393,0.19,Basico,5
+1097,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,3539653,1919735,1619918,0.46,Premium,3
+1098,2025-01-01,Colombia,Cartagena,App Movil,Hogar,4861071,3996802,864269,0.18,Corporativo,1
+1099,2025-01-01,Colombia,Lima,Ecommerce,Oficina,328072,166838,161234,0.49,Basico,3
+1100,2025-01-01,Colombia,Bogota,App Movil,Oficina,4573438,2898387,1675051,0.37,Corporativo,4
+1101,2025-01-01,Peru,Bogota,Ecommerce,Oficina,1583453,1289758,293695,0.19,Premium,2
+1102,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,4539100,2283808,2255292,0.5,Premium,3
+1103,2025-01-01,Mexico,Bogota,App Movil,Hogar,4160832,3216213,944619,0.23,Premium,1
+1104,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,2255608,1759048,496560,0.22,Premium,1
+1105,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,4817197,2267292,2549905,0.53,Corporativo,3
+1106,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,2833498,1463600,1369898,0.48,Basico,1
+1107,2025-01-01,Mexico,Lima,App Movil,Tecnologia,551542,410246,141296,0.26,Corporativo,5
+1108,2025-01-01,Peru,Bogota,Ecommerce,Oficina,388647,248011,140636,0.36,Premium,4
+1109,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2011283,1567682,443601,0.22,Corporativo,3
+1110,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,564523,392753,171770,0.3,Corporativo,3
+1111,2025-01-01,Colombia,Santiago,App Movil,Oficina,642623,323131,319492,0.5,Premium,4
+1112,2025-01-01,Peru,Santiago,Ecommerce,Oficina,2028613,1006715,1021898,0.5,Basico,4
+1113,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,1916485,1496440,420045,0.22,Premium,4
+1114,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,4500971,3063619,1437352,0.32,Basico,5
+1115,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,4539974,3599657,940317,0.21,Corporativo,5
+1116,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,2845227,1335998,1509229,0.53,Corporativo,1
+1117,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,342217,260542,81675,0.24,Corporativo,5
+1118,2025-01-01,Chile,Lima,App Movil,Tecnologia,1640552,1127098,513454,0.31,Corporativo,2
+1119,2025-01-01,Peru,Cartagena,App Movil,Oficina,3244238,2221298,1022940,0.32,Premium,3
+1120,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,3015292,1358706,1656586,0.55,Basico,5
+1121,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,3043310,1427321,1615989,0.53,Basico,1
+1122,2025-01-01,Chile,Lima,Ecommerce,Oficina,3783668,2038729,1744939,0.46,Corporativo,4
+1123,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,1234548,730092,504456,0.41,Corporativo,4
+1124,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,2283465,1318306,965159,0.42,Premium,3
+1125,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,2472884,1324740,1148144,0.46,Basico,1
+1126,2025-01-01,Chile,Bogota,App Movil,Hogar,405167,202273,202894,0.5,Basico,5
+1127,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,2860180,2257848,602332,0.21,Corporativo,5
+1128,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,3739942,2778496,961446,0.26,Premium,1
+1129,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3721131,1690414,2030717,0.55,Premium,4
+1130,2025-01-01,Chile,Lima,Ecommerce,Oficina,4959942,4068784,891158,0.18,Basico,1
+1131,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,4295996,2056442,2239554,0.52,Premium,2
+1132,2025-01-01,Chile,Santiago,App Movil,Tecnologia,1351780,1035476,316304,0.23,Corporativo,3
+1133,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,3505061,2401338,1103723,0.31,Corporativo,1
+1134,2025-01-01,Peru,Bogota,App Movil,Hogar,2679253,1884041,795212,0.3,Basico,4
+1135,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,2217223,1051451,1165772,0.53,Corporativo,5
+1136,2025-01-01,Mexico,Bogota,App Movil,Oficina,4886784,3818091,1068693,0.22,Corporativo,2
+1137,2025-01-01,Peru,Cartagena,App Movil,Hogar,3634802,2715323,919479,0.25,Corporativo,2
+1138,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,1697391,1037126,660265,0.39,Basico,5
+1139,2025-01-01,Chile,Bogota,App Movil,Hogar,114824,88459,26365,0.23,Corporativo,1
+1140,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,4716942,2572487,2144455,0.45,Corporativo,3
+1141,2025-01-01,Peru,Bogota,Ecommerce,Oficina,1880513,1584909,295604,0.16,Premium,4
+1142,2025-01-01,Mexico,Lima,App Movil,Oficina,3720682,2138653,1582029,0.43,Corporativo,3
+1143,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,4167410,2764914,1402496,0.34,Premium,3
+1144,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,3410174,2529415,880759,0.26,Basico,1
+1145,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,3742416,1828841,1913575,0.51,Basico,5
+1146,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,4653431,2940540,1712891,0.37,Corporativo,1
+1147,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,4065090,3060513,1004577,0.25,Corporativo,1
+1148,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,974427,753865,220562,0.23,Basico,2
+1149,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,4980673,3326312,1654361,0.33,Premium,4
+1150,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,1187479,744005,443474,0.37,Corporativo,5
+1151,2025-01-01,Mexico,Cartagena,App Movil,Oficina,524404,377257,147147,0.28,Premium,4
+1152,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,3245217,2471515,773702,0.24,Premium,1
+1153,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,4334507,2306608,2027899,0.47,Basico,2
+1154,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,2811998,1828248,983750,0.35,Premium,2
+1155,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3866920,1938627,1928293,0.5,Corporativo,3
+1156,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,3175121,1665238,1509883,0.48,Corporativo,3
+1157,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,789836,459857,329979,0.42,Corporativo,3
+1158,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,2988428,1832595,1155833,0.39,Basico,1
+1159,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,1318472,768205,550267,0.42,Premium,5
+1160,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,135406,71734,63672,0.47,Premium,3
+1161,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,505947,243515,262432,0.52,Corporativo,5
+1162,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,2200012,1622922,577090,0.26,Premium,1
+1163,2025-01-01,Chile,Cartagena,App Movil,Hogar,3461010,2633451,827559,0.24,Basico,3
+1164,2025-01-01,Chile,Bogota,App Movil,Oficina,1875934,1032232,843702,0.45,Basico,1
+1165,2025-01-01,Colombia,Bogota,App Movil,Oficina,2775325,1493193,1282132,0.46,Premium,2
+1166,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,3706631,1836880,1869751,0.5,Premium,2
+1167,2025-01-01,Peru,Bogota,Ecommerce,Hogar,1365076,803988,561088,0.41,Premium,5
+1168,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3056288,2011962,1044326,0.34,Premium,4
+1169,2025-01-01,Colombia,Lima,App Movil,Hogar,3892157,2852539,1039618,0.27,Corporativo,2
+1170,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,2477210,1535069,942141,0.38,Corporativo,4
+1171,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,4682694,3824608,858086,0.18,Corporativo,4
+1172,2025-01-01,Colombia,Lima,App Movil,Oficina,421633,331379,90254,0.21,Premium,5
+1173,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,4302950,2075578,2227372,0.52,Corporativo,2
+1174,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,1429964,708842,721122,0.5,Premium,3
+1175,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,1631390,1187402,443988,0.27,Corporativo,4
+1176,2025-01-01,Mexico,Cartagena,App Movil,Oficina,838129,539960,298169,0.36,Corporativo,4
+1177,2025-01-01,Peru,Cartagena,App Movil,Oficina,4671870,3114508,1557362,0.33,Corporativo,3
+1178,2025-01-01,Mexico,Lima,App Movil,Hogar,750640,604627,146013,0.19,Premium,5
+1179,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,3233065,1905683,1327382,0.41,Premium,1
+1180,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,3904164,2919607,984557,0.25,Corporativo,3
+1181,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,2630133,1587256,1042877,0.4,Basico,2
+1182,2025-01-01,Chile,Lima,App Movil,Hogar,1213584,595420,618164,0.51,Basico,2
+1183,2025-01-01,Colombia,Santiago,App Movil,Oficina,4117510,2890027,1227483,0.3,Basico,2
+1184,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2718906,2156441,562465,0.21,Premium,5
+1185,2025-01-01,Peru,Bogota,App Movil,Tecnologia,2090221,1550385,539836,0.26,Basico,1
+1186,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,1562723,1004644,558079,0.36,Basico,4
+1187,2025-01-01,Chile,Bogota,App Movil,Hogar,286421,171861,114560,0.4,Corporativo,1
+1188,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,2698938,1228906,1470032,0.54,Corporativo,2
+1189,2025-01-01,Peru,Bogota,Ecommerce,Hogar,2938571,1757810,1180761,0.4,Premium,3
+1190,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,1715875,1248968,466907,0.27,Premium,2
+1191,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,2532861,1668070,864791,0.34,Corporativo,1
+1192,2025-01-01,Colombia,Lima,App Movil,Oficina,3703308,2716713,986595,0.27,Basico,4
+1193,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,1071134,619360,451774,0.42,Premium,1
+1194,2025-01-01,Peru,Santiago,App Movil,Tecnologia,4228144,2887471,1340673,0.32,Corporativo,3
+1195,2025-01-01,Peru,Cartagena,App Movil,Hogar,2048152,1036651,1011501,0.49,Premium,1
+1196,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,713447,436964,276483,0.39,Corporativo,3
+1197,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,2656163,1939308,716855,0.27,Premium,2
+1198,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,2713823,1901007,812816,0.3,Corporativo,5
+1199,2025-01-01,Colombia,Lima,Ecommerce,Oficina,4554535,3527803,1026732,0.23,Premium,1
+1200,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4925714,3102668,1823046,0.37,Corporativo,1
+1201,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,3160308,1588568,1571740,0.5,Corporativo,4
+1202,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,4854097,3255065,1599032,0.33,Basico,1
+1203,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,1150442,727862,422580,0.37,Corporativo,1
+1204,2025-01-01,Chile,Bogota,App Movil,Hogar,2217072,1813360,403712,0.18,Basico,2
+1205,2025-01-01,Colombia,Lima,App Movil,Tecnologia,3758405,2389738,1368667,0.36,Basico,1
+1206,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1011634,754715,256919,0.25,Premium,4
+1207,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,4199653,3282203,917450,0.22,Premium,2
+1208,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,663431,362473,300958,0.45,Premium,2
+1209,2025-01-01,Peru,Bogota,App Movil,Tecnologia,4244659,2903843,1340816,0.32,Corporativo,4
+1210,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,163332,79697,83635,0.51,Corporativo,3
+1211,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,1731448,988572,742876,0.43,Corporativo,4
+1212,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,2499911,1363140,1136771,0.45,Basico,2
+1213,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,3882808,2814613,1068195,0.28,Premium,3
+1214,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,3622423,2250715,1371708,0.38,Corporativo,1
+1215,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,3956274,2636326,1319948,0.33,Basico,1
+1216,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2906312,1897046,1009266,0.35,Corporativo,3
+1217,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,722595,557530,165065,0.23,Basico,2
+1218,2025-01-01,Chile,Bogota,Ecommerce,Hogar,3552315,2324100,1228215,0.35,Premium,1
+1219,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,2193702,1191234,1002468,0.46,Premium,3
+1220,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,4966697,2303611,2663086,0.54,Corporativo,4
+1221,2025-01-01,Peru,Cartagena,App Movil,Oficina,2753070,1544570,1208500,0.44,Corporativo,2
+1222,2025-01-01,Peru,Bogota,Ecommerce,Hogar,1551285,716494,834791,0.54,Premium,4
+1223,2025-01-01,Peru,Santiago,Ecommerce,Hogar,2293561,1155835,1137726,0.5,Basico,2
+1224,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,3928946,2445031,1483915,0.38,Corporativo,4
+1225,2025-01-01,Peru,Lima,Ecommerce,Oficina,572928,398770,174158,0.3,Basico,5
+1226,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,459360,282472,176888,0.39,Premium,3
+1227,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,815820,494569,321251,0.39,Basico,4
+1228,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,173765,116838,56927,0.33,Corporativo,4
+1229,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,2622396,1575935,1046461,0.4,Premium,1
+1230,2025-01-01,Chile,Bogota,Ecommerce,Oficina,2395961,1789384,606577,0.25,Corporativo,1
+1231,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,3260912,1713469,1547443,0.47,Premium,4
+1232,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,1836232,1031161,805071,0.44,Premium,2
+1233,2025-01-01,Chile,Santiago,Ecommerce,Oficina,1989987,1295750,694237,0.35,Premium,1
+1234,2025-01-01,Peru,Lima,App Movil,Tecnologia,1915166,1345243,569923,0.3,Basico,4
+1235,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,3587388,1640619,1946769,0.54,Basico,1
+1236,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,4206551,2698773,1507778,0.36,Corporativo,1
+1237,2025-01-01,Chile,Lima,App Movil,Oficina,2874524,2396924,477600,0.17,Premium,4
+1238,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,4043717,2256023,1787694,0.44,Basico,3
+1239,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,3871623,2393850,1477773,0.38,Basico,1
+1240,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,2065717,1289210,776507,0.38,Premium,2
+1241,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3522352,2662678,859674,0.24,Premium,4
+1242,2025-01-01,Peru,Bogota,App Movil,Hogar,4485436,2681397,1804039,0.4,Corporativo,3
+1243,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,3574416,1962261,1612155,0.45,Corporativo,5
+1244,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,3758534,2296356,1462178,0.39,Premium,3
+1245,2025-01-01,Chile,Santiago,App Movil,Tecnologia,4577126,2241894,2335232,0.51,Premium,4
+1246,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1045838,562390,483448,0.46,Corporativo,1
+1247,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,2203470,1340971,862499,0.39,Basico,1
+1248,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,2970207,2348875,621332,0.21,Premium,4
+1249,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,1052003,827476,224527,0.21,Premium,5
+1250,2025-01-01,Colombia,Lima,Ecommerce,Hogar,2908284,2005549,902735,0.31,Corporativo,2
+1251,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3378431,2703378,675053,0.2,Corporativo,3
+1252,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,4889000,2636845,2252155,0.46,Corporativo,5
+1253,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4797228,3859379,937849,0.2,Premium,4
+1254,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,1767595,917552,850043,0.48,Corporativo,4
+1255,2025-01-01,Mexico,Lima,App Movil,Oficina,3970611,2833080,1137531,0.29,Premium,4
+1256,2025-01-01,Peru,Bogota,Ecommerce,Hogar,483184,339311,143873,0.3,Basico,2
+1257,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,4695106,2644709,2050397,0.44,Basico,4
+1258,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,4883012,3048214,1834798,0.38,Corporativo,1
+1259,2025-01-01,Chile,Lima,Ecommerce,Oficina,4428359,3329305,1099054,0.25,Premium,4
+1260,2025-01-01,Chile,Cartagena,App Movil,Oficina,616956,312199,304757,0.49,Basico,1
+1261,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,3770924,2625764,1145160,0.3,Premium,5
+1262,2025-01-01,Mexico,Santiago,App Movil,Oficina,2577698,1838025,739673,0.29,Basico,2
+1263,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2051164,944656,1106508,0.54,Premium,1
+1264,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,4681178,2809245,1871933,0.4,Corporativo,5
+1265,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,2797083,1865207,931876,0.33,Basico,1
+1266,2025-01-01,Mexico,Cartagena,App Movil,Hogar,2847095,2283827,563268,0.2,Corporativo,4
+1267,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1690545,1158254,532291,0.31,Basico,3
+1268,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,570986,329774,241212,0.42,Premium,5
+1269,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2115537,1179705,935832,0.44,Corporativo,3
+1270,2025-01-01,Peru,Lima,App Movil,Oficina,1663487,1223512,439975,0.26,Corporativo,3
+1271,2025-01-01,Peru,Santiago,App Movil,Oficina,520453,329576,190877,0.37,Corporativo,2
+1272,2025-01-01,Mexico,Lima,Ecommerce,Oficina,4634558,2133042,2501516,0.54,Premium,3
+1273,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,939463,435330,504133,0.54,Corporativo,2
+1274,2025-01-01,Chile,Bogota,App Movil,Hogar,659745,505213,154532,0.23,Corporativo,4
+1275,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,4805106,2312905,2492201,0.52,Corporativo,3
+1276,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,4345958,2228500,2117458,0.49,Corporativo,4
+1277,2025-01-01,Peru,Lima,App Movil,Tecnologia,4404122,3710284,693838,0.16,Corporativo,3
+1278,2025-01-01,Peru,Bogota,Ecommerce,Oficina,3798935,2549378,1249557,0.33,Corporativo,3
+1279,2025-01-01,Colombia,Bogota,App Movil,Hogar,3900201,2086236,1813965,0.47,Basico,1
+1280,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,3374731,1863809,1510922,0.45,Basico,1
+1281,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4878280,2519651,2358629,0.48,Corporativo,5
+1282,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,628961,407596,221365,0.35,Corporativo,3
+1283,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1690760,807081,883679,0.52,Corporativo,4
+1284,2025-01-01,Peru,Bogota,App Movil,Hogar,682492,376400,306092,0.45,Corporativo,4
+1285,2025-01-01,Chile,Cartagena,App Movil,Oficina,437401,304184,133217,0.3,Corporativo,2
+1286,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,153110,125995,27115,0.18,Corporativo,5
+1287,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4080667,3091902,988765,0.24,Premium,4
+1288,2025-01-01,Chile,Santiago,Ecommerce,Oficina,3559209,1601733,1957476,0.55,Premium,4
+1289,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,1289988,1045789,244199,0.19,Premium,1
+1290,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,1429489,939165,490324,0.34,Corporativo,1
+1291,2025-01-01,Chile,Bogota,App Movil,Hogar,3964054,2332609,1631445,0.41,Premium,2
+1292,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,1266718,683538,583180,0.46,Corporativo,2
+1293,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,3911270,2439533,1471737,0.38,Basico,4
+1294,2025-01-01,Peru,Lima,App Movil,Hogar,2308363,1574376,733987,0.32,Basico,5
+1295,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,1773134,855472,917662,0.52,Premium,5
+1296,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,4584830,2861460,1723370,0.38,Basico,1
+1297,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,3787378,2876436,910942,0.24,Basico,2
+1298,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,407678,183570,224108,0.55,Basico,1
+1299,2025-01-01,Peru,Santiago,App Movil,Tecnologia,4206297,2071704,2134593,0.51,Premium,4
+1300,2025-01-01,Chile,Santiago,Ecommerce,Oficina,2916056,1534914,1381142,0.47,Corporativo,3
+1301,2025-01-01,Colombia,Cartagena,App Movil,Hogar,981720,473172,508548,0.52,Premium,5
+1302,2025-01-01,Mexico,Bogota,App Movil,Hogar,1441606,1089741,351865,0.24,Basico,3
+1303,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,3613736,1687276,1926460,0.53,Basico,2
+1304,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,4649635,2559292,2090343,0.45,Corporativo,5
+1305,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,2625992,1833908,792084,0.3,Corporativo,3
+1306,2025-01-01,Colombia,Lima,App Movil,Hogar,201568,110908,90660,0.45,Premium,5
+1307,2025-01-01,Mexico,Lima,Ecommerce,Hogar,4984981,2662239,2322742,0.47,Premium,3
+1308,2025-01-01,Colombia,Lima,Ecommerce,Hogar,4240428,2903248,1337180,0.32,Basico,3
+1309,2025-01-01,Peru,Lima,Ecommerce,Oficina,4542731,2713118,1829613,0.4,Premium,5
+1310,2025-01-01,Mexico,Santiago,App Movil,Oficina,2803052,2338113,464939,0.17,Premium,5
+1311,2025-01-01,Mexico,Santiago,App Movil,Oficina,2021213,1357787,663426,0.33,Corporativo,3
+1312,2025-01-01,Mexico,Bogota,App Movil,Hogar,1375319,916172,459147,0.33,Corporativo,2
+1313,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,3939887,2815860,1124027,0.29,Corporativo,3
+1314,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,2738660,1886811,851849,0.31,Corporativo,5
+1315,2025-01-01,Colombia,Lima,App Movil,Hogar,4192098,2395162,1796936,0.43,Corporativo,5
+1316,2025-01-01,Peru,Bogota,App Movil,Tecnologia,1779305,974842,804463,0.45,Premium,2
+1317,2025-01-01,Peru,Bogota,App Movil,Oficina,469727,388819,80908,0.17,Premium,3
+1318,2025-01-01,Chile,Lima,App Movil,Tecnologia,2479570,1992811,486759,0.2,Basico,4
+1319,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,4392589,2882569,1510020,0.34,Corporativo,5
+1320,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,739945,340660,399285,0.54,Premium,4
+1321,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,2854350,2028785,825565,0.29,Premium,4
+1322,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,1584470,936285,648185,0.41,Premium,1
+1323,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,2404599,1717198,687401,0.29,Corporativo,3
+1324,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,4680906,2234019,2446887,0.52,Corporativo,5
+1325,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,1602977,1208397,394580,0.25,Basico,4
+1326,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,4055528,3413995,641533,0.16,Basico,1
+1327,2025-01-01,Colombia,Lima,Ecommerce,Hogar,1965047,1075507,889540,0.45,Corporativo,5
+1328,2025-01-01,Colombia,Bogota,App Movil,Oficina,2198768,1449426,749342,0.34,Basico,1
+1329,2025-01-01,Peru,Santiago,App Movil,Oficina,3650209,1740785,1909424,0.52,Basico,2
+1330,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,496733,223910,272823,0.55,Basico,1
+1331,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,4068224,1890412,2177812,0.54,Premium,4
+1332,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2348998,1695873,653125,0.28,Corporativo,2
+1333,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,2511028,1710001,801027,0.32,Corporativo,4
+1334,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,3692876,3102640,590236,0.16,Corporativo,5
+1335,2025-01-01,Colombia,Cartagena,App Movil,Hogar,2021806,1006985,1014821,0.5,Premium,1
+1336,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,304149,227838,76311,0.25,Basico,2
+1337,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,990066,825038,165028,0.17,Corporativo,2
+1338,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,4952749,3169667,1783082,0.36,Premium,5
+1339,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,1230443,567643,662800,0.54,Premium,1
+1340,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,3163999,1452823,1711176,0.54,Basico,4
+1341,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2043241,1281014,762227,0.37,Corporativo,5
+1342,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,3238659,2503292,735367,0.23,Basico,4
+1343,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,754184,463723,290461,0.39,Corporativo,4
+1344,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,3716502,1697218,2019284,0.54,Basico,3
+1345,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,4571455,3059152,1512303,0.33,Premium,1
+1346,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,3897312,2926112,971200,0.25,Corporativo,4
+1347,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,1980154,1203593,776561,0.39,Corporativo,2
+1348,2025-01-01,Peru,Bogota,App Movil,Oficina,4824038,3982962,841076,0.17,Corporativo,5
+1349,2025-01-01,Chile,Bogota,App Movil,Hogar,706642,429360,277282,0.39,Corporativo,4
+1350,2025-01-01,Colombia,Santiago,App Movil,Hogar,2452164,1978114,474050,0.19,Premium,3
+1351,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,482506,229844,252662,0.52,Basico,2
+1352,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,2558748,1223413,1335335,0.52,Premium,1
+1353,2025-01-01,Colombia,Lima,App Movil,Tecnologia,3640828,2935467,705361,0.19,Corporativo,4
+1354,2025-01-01,Chile,Santiago,Ecommerce,Oficina,4903398,3636029,1267369,0.26,Basico,2
+1355,2025-01-01,Chile,Bogota,App Movil,Hogar,4075116,2474008,1601108,0.39,Premium,3
+1356,2025-01-01,Peru,Bogota,App Movil,Oficina,3872586,1903386,1969200,0.51,Premium,3
+1357,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,3030662,1995237,1035425,0.34,Basico,5
+1358,2025-01-01,Peru,Lima,App Movil,Hogar,1822227,1310442,511785,0.28,Basico,2
+1359,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,2699010,1825251,873759,0.32,Premium,1
+1360,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,2155013,1612186,542827,0.25,Basico,3
+1361,2025-01-01,Chile,Santiago,App Movil,Oficina,3117319,2270268,847051,0.27,Corporativo,5
+1362,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,1356559,917359,439200,0.32,Basico,1
+1363,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1167390,624248,543142,0.47,Basico,2
+1364,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,3771529,2087336,1684193,0.45,Corporativo,5
+1365,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,3448470,2299013,1149457,0.33,Premium,3
+1366,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,2413367,1942826,470541,0.19,Corporativo,2
+1367,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,3740689,1938352,1802337,0.48,Corporativo,5
+1368,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,3122365,2611321,511044,0.16,Basico,5
+1369,2025-01-01,Colombia,Lima,App Movil,Hogar,960775,735056,225719,0.23,Premium,5
+1370,2025-01-01,Peru,Santiago,App Movil,Tecnologia,636710,321454,315256,0.5,Premium,1
+1371,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4115349,2951967,1163382,0.28,Basico,3
+1372,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,1319460,858877,460583,0.35,Basico,4
+1373,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,4108245,2686565,1421680,0.35,Premium,1
+1374,2025-01-01,Chile,Lima,Ecommerce,Hogar,2889014,1979644,909370,0.31,Premium,4
+1375,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4727356,3434382,1292974,0.27,Premium,1
+1376,2025-01-01,Peru,Lima,App Movil,Tecnologia,2452172,1213304,1238868,0.51,Corporativo,2
+1377,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,521291,347134,174157,0.33,Corporativo,2
+1378,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,1482902,878675,604227,0.41,Corporativo,1
+1379,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,4882305,2222601,2659704,0.54,Premium,2
+1380,2025-01-01,Chile,Lima,App Movil,Hogar,3841446,2372115,1469331,0.38,Premium,5
+1381,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,675054,488814,186240,0.28,Premium,2
+1382,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,4827325,2654887,2172438,0.45,Premium,4
+1383,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,1356069,994337,361732,0.27,Premium,5
+1384,2025-01-01,Mexico,Lima,App Movil,Hogar,349758,164421,185337,0.53,Premium,1
+1385,2025-01-01,Colombia,Bogota,App Movil,Oficina,2665974,1814436,851538,0.32,Basico,4
+1386,2025-01-01,Chile,Santiago,App Movil,Hogar,2970925,1503627,1467298,0.49,Premium,5
+1387,2025-01-01,Peru,Cartagena,App Movil,Hogar,1617269,774491,842778,0.52,Basico,1
+1388,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4582438,2747981,1834457,0.4,Basico,5
+1389,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,1937040,1256122,680918,0.35,Corporativo,3
+1390,2025-01-01,Mexico,Cartagena,App Movil,Hogar,798655,480948,317707,0.4,Premium,3
+1391,2025-01-01,Chile,Lima,App Movil,Oficina,4030895,1837433,2193462,0.54,Corporativo,5
+1392,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,3327310,2334877,992433,0.3,Basico,3
+1393,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,1102153,569471,532682,0.48,Corporativo,5
+1394,2025-01-01,Chile,Lima,Ecommerce,Oficina,4382823,2833492,1549331,0.35,Basico,2
+1395,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,1850235,1273519,576716,0.31,Corporativo,4
+1396,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,3403565,2136284,1267281,0.37,Premium,2
+1397,2025-01-01,Chile,Cartagena,Ecommerce,Oficina,4822777,2267268,2555509,0.53,Premium,3
+1398,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,762130,384323,377807,0.5,Basico,3
+1399,2025-01-01,Chile,Bogota,App Movil,Hogar,2749847,1758022,991825,0.36,Corporativo,1
+1400,2025-01-01,Mexico,Bogota,App Movil,Oficina,4025065,3226391,798674,0.2,Premium,2
+1401,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4507904,2761344,1746560,0.39,Corporativo,1
+1402,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,1629280,769916,859364,0.53,Corporativo,1
+1403,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,167958,128283,39675,0.24,Basico,1
+1404,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,717124,379045,338079,0.47,Corporativo,5
+1405,2025-01-01,Mexico,Lima,App Movil,Oficina,3894247,2786905,1107342,0.28,Premium,4
+1406,2025-01-01,Mexico,Cartagena,App Movil,Oficina,4388793,2840749,1548044,0.35,Basico,1
+1407,2025-01-01,Peru,Lima,Ecommerce,Oficina,3835267,2295840,1539427,0.4,Premium,1
+1408,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,1059819,681629,378190,0.36,Corporativo,2
+1409,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3717894,3092297,625597,0.17,Basico,4
+1410,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3672073,1949116,1722957,0.47,Corporativo,4
+1411,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,2272861,1656408,616453,0.27,Basico,3
+1412,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,2318922,1656362,662560,0.29,Corporativo,3
+1413,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3625916,3044698,581218,0.16,Corporativo,5
+1414,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4810433,3838491,971942,0.2,Basico,1
+1415,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,3016393,1378912,1637481,0.54,Basico,5
+1416,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,4883928,4130354,753574,0.15,Corporativo,1
+1417,2025-01-01,Chile,Cartagena,App Movil,Oficina,3161942,1839238,1322704,0.42,Basico,3
+1418,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,1750773,1261270,489503,0.28,Basico,2
+1419,2025-01-01,Chile,Lima,App Movil,Hogar,4256477,2196488,2059989,0.48,Corporativo,4
+1420,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,4505956,3706401,799555,0.18,Basico,5
+1421,2025-01-01,Chile,Bogota,Ecommerce,Oficina,3147793,1660389,1487404,0.47,Basico,3
+1422,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,2434668,1188277,1246391,0.51,Basico,3
+1423,2025-01-01,Mexico,Bogota,App Movil,Oficina,172787,98603,74184,0.43,Basico,3
+1424,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,408236,249683,158553,0.39,Premium,3
+1425,2025-01-01,Colombia,Santiago,App Movil,Hogar,208319,122944,85375,0.41,Corporativo,1
+1426,2025-01-01,Peru,Lima,App Movil,Oficina,1690926,917018,773908,0.46,Premium,3
+1427,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,3840659,3218399,622260,0.16,Premium,5
+1428,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,3700544,2549916,1150628,0.31,Basico,3
+1429,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,2862632,1792345,1070287,0.37,Premium,5
+1430,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,405385,273908,131477,0.32,Premium,3
+1431,2025-01-01,Peru,Bogota,App Movil,Oficina,100194,48009,52185,0.52,Basico,2
+1432,2025-01-01,Colombia,Lima,App Movil,Oficina,4128361,2840169,1288192,0.31,Basico,4
+1433,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,1886274,1312053,574221,0.3,Corporativo,4
+1434,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,3076429,2463923,612506,0.2,Basico,5
+1435,2025-01-01,Chile,Santiago,Ecommerce,Hogar,2771674,1804411,967263,0.35,Corporativo,2
+1436,2025-01-01,Chile,Cartagena,App Movil,Hogar,331531,159979,171552,0.52,Basico,4
+1437,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,2854988,2148035,706953,0.25,Basico,4
+1438,2025-01-01,Chile,Bogota,Ecommerce,Oficina,1092695,691135,401560,0.37,Corporativo,2
+1439,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,1889219,1493005,396214,0.21,Basico,1
+1440,2025-01-01,Colombia,Bogota,App Movil,Oficina,1503353,1091875,411478,0.27,Premium,4
+1441,2025-01-01,Peru,Lima,App Movil,Oficina,4684489,2136485,2548004,0.54,Corporativo,3
+1442,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,4230521,2475649,1754872,0.41,Basico,2
+1443,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,2444248,1175022,1269226,0.52,Corporativo,4
+1444,2025-01-01,Peru,Santiago,App Movil,Tecnologia,3864611,3218700,645911,0.17,Premium,4
+1445,2025-01-01,Peru,Lima,App Movil,Oficina,1662785,1001424,661361,0.4,Basico,2
+1446,2025-01-01,Chile,Santiago,Ecommerce,Hogar,3205409,2693537,511872,0.16,Premium,1
+1447,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,1616039,734384,881655,0.55,Corporativo,4
+1448,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1372704,1095870,276834,0.2,Basico,2
+1449,2025-01-01,Mexico,Lima,App Movil,Hogar,1461736,1238504,223232,0.15,Corporativo,5
+1450,2025-01-01,Peru,Bogota,App Movil,Hogar,424716,294841,129875,0.31,Corporativo,2
+1451,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,1445933,1046955,398978,0.28,Basico,1
+1452,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,2737740,2090172,647568,0.24,Basico,3
+1453,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,2005866,1495483,510383,0.25,Premium,1
+1454,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,1577724,1089353,488371,0.31,Corporativo,3
+1455,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,239148,201063,38085,0.16,Premium,1
+1456,2025-01-01,Chile,Bogota,App Movil,Tecnologia,4197370,3391560,805810,0.19,Premium,3
+1457,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,2335545,1092449,1243096,0.53,Premium,1
+1458,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2280291,1773992,506299,0.22,Basico,3
+1459,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,3970306,2088138,1882168,0.47,Corporativo,2
+1460,2025-01-01,Peru,Bogota,Ecommerce,Oficina,3638399,2328231,1310168,0.36,Basico,5
+1461,2025-01-01,Colombia,Lima,Ecommerce,Hogar,4629004,3208718,1420286,0.31,Basico,4
+1462,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,3698163,2807817,890346,0.24,Basico,1
+1463,2025-01-01,Mexico,Lima,App Movil,Oficina,4534292,2256847,2277445,0.5,Basico,2
+1464,2025-01-01,Peru,Santiago,Ecommerce,Hogar,1176386,559788,616598,0.52,Premium,4
+1465,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,3559766,2463306,1096460,0.31,Basico,4
+1466,2025-01-01,Colombia,Santiago,App Movil,Oficina,2876992,2303629,573363,0.2,Premium,1
+1467,2025-01-01,Chile,Santiago,App Movil,Oficina,4453327,2364278,2089049,0.47,Basico,5
+1468,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,1450663,966105,484558,0.33,Corporativo,1
+1469,2025-01-01,Peru,Cartagena,App Movil,Oficina,959828,473381,486447,0.51,Basico,5
+1470,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,4274242,3361760,912482,0.21,Premium,4
+1471,2025-01-01,Peru,Santiago,App Movil,Oficina,1394526,818359,576167,0.41,Basico,1
+1472,2025-01-01,Chile,Lima,App Movil,Hogar,603608,502414,101194,0.17,Premium,4
+1473,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,630858,292802,338056,0.54,Premium,3
+1474,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,1192896,720278,472618,0.4,Corporativo,1
+1475,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,161859,115572,46287,0.29,Corporativo,3
+1476,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,2959195,2197769,761426,0.26,Premium,2
+1477,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,433331,231232,202099,0.47,Basico,3
+1478,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3578605,2002312,1576293,0.44,Basico,3
+1479,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4963255,4044469,918786,0.19,Corporativo,1
+1480,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,3596863,2126162,1470701,0.41,Basico,3
+1481,2025-01-01,Peru,Santiago,App Movil,Hogar,1163982,868164,295818,0.25,Basico,4
+1482,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4360259,3184938,1175321,0.27,Corporativo,5
+1483,2025-01-01,Mexico,Santiago,App Movil,Hogar,3974627,2985262,989365,0.25,Premium,2
+1484,2025-01-01,Chile,Bogota,Ecommerce,Hogar,1627416,1266897,360519,0.22,Premium,2
+1485,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,807645,625297,182348,0.23,Premium,3
+1486,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,3102805,2548727,554078,0.18,Basico,1
+1487,2025-01-01,Colombia,Santiago,App Movil,Hogar,1054762,634449,420313,0.4,Premium,1
+1488,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,422497,236563,185934,0.44,Premium,5
+1489,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,2965976,1503213,1462763,0.49,Basico,3
+1490,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,4782129,2915510,1866619,0.39,Premium,4
+1491,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,1069350,882424,186926,0.17,Corporativo,4
+1492,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,800466,538590,261876,0.33,Premium,2
+1493,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,4771919,2230892,2541027,0.53,Premium,5
+1494,2025-01-01,Mexico,Cartagena,App Movil,Oficina,196061,115222,80839,0.41,Corporativo,4
+1495,2025-01-01,Peru,Santiago,Ecommerce,Hogar,1691910,825283,866627,0.51,Basico,4
+1496,2025-01-01,Chile,Cartagena,App Movil,Hogar,2954153,1853432,1100721,0.37,Corporativo,4
+1497,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,3369647,2735751,633896,0.19,Basico,5
+1498,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,1598403,865920,732483,0.46,Premium,5
+1499,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,2860753,1551256,1309497,0.46,Premium,3
+1500,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,512549,299409,213140,0.42,Premium,3
+1501,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3399477,1887518,1511959,0.44,Corporativo,2
+1502,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,3920685,2193471,1727214,0.44,Corporativo,5
+1503,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,2785765,1969770,815995,0.29,Premium,4
+1504,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,2880158,1900554,979604,0.34,Corporativo,1
+1505,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,3667935,2631641,1036294,0.28,Basico,2
+1506,2025-01-01,Colombia,Lima,App Movil,Hogar,1579726,1224585,355141,0.22,Basico,5
+1507,2025-01-01,Chile,Bogota,App Movil,Oficina,4675312,3021544,1653768,0.35,Premium,5
+1508,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,571656,317569,254087,0.44,Premium,3
+1509,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,164432,119165,45267,0.28,Basico,5
+1510,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,811098,372424,438674,0.54,Corporativo,5
+1511,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,3660954,2537162,1123792,0.31,Basico,2
+1512,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4266301,2298174,1968127,0.46,Premium,1
+1513,2025-01-01,Colombia,Bogota,App Movil,Hogar,1055789,620505,435284,0.41,Premium,1
+1514,2025-01-01,Peru,Lima,Ecommerce,Hogar,1194829,991544,203285,0.17,Premium,3
+1515,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1771984,1092812,679172,0.38,Corporativo,1
+1516,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,775162,406897,368265,0.48,Premium,1
+1517,2025-01-01,Chile,Cartagena,App Movil,Oficina,470533,379895,90638,0.19,Basico,1
+1518,2025-01-01,Mexico,Lima,Ecommerce,Hogar,825926,634619,191307,0.23,Basico,4
+1519,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,395591,313336,82255,0.21,Corporativo,2
+1520,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,4550511,3227451,1323060,0.29,Basico,3
+1521,2025-01-01,Colombia,Lima,App Movil,Tecnologia,3018275,2136211,882064,0.29,Premium,5
+1522,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,1604790,870453,734337,0.46,Corporativo,1
+1523,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,4823419,2375923,2447496,0.51,Corporativo,3
+1524,2025-01-01,Colombia,Bogota,App Movil,Oficina,1649581,968813,680768,0.41,Premium,2
+1525,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,1463631,874020,589611,0.4,Basico,2
+1526,2025-01-01,Mexico,Santiago,App Movil,Hogar,3347429,2008208,1339221,0.4,Corporativo,5
+1527,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,4799077,2454845,2344232,0.49,Premium,3
+1528,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,1700818,1124062,576756,0.34,Premium,5
+1529,2025-01-01,Mexico,Santiago,App Movil,Hogar,2499271,1145133,1354138,0.54,Premium,3
+1530,2025-01-01,Mexico,Bogota,App Movil,Hogar,691735,455343,236392,0.34,Premium,3
+1531,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,1033460,723934,309526,0.3,Corporativo,2
+1532,2025-01-01,Peru,Bogota,Tienda Fisica,Tecnologia,3085893,1562997,1522896,0.49,Basico,3
+1533,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,1599523,941479,658044,0.41,Basico,5
+1534,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,4793000,3567949,1225051,0.26,Corporativo,4
+1535,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,4874395,2553981,2320414,0.48,Basico,3
+1536,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,1682090,768139,913951,0.54,Basico,3
+1537,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,2432034,1729837,702197,0.29,Premium,3
+1538,2025-01-01,Colombia,Lima,App Movil,Tecnologia,2436642,1434716,1001926,0.41,Basico,1
+1539,2025-01-01,Chile,Bogota,App Movil,Oficina,760668,566273,194395,0.26,Corporativo,3
+1540,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,4373422,3373412,1000010,0.23,Premium,2
+1541,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,2919547,2291236,628311,0.22,Premium,1
+1542,2025-01-01,Chile,Lima,Ecommerce,Oficina,582048,356850,225198,0.39,Basico,4
+1543,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,2311584,1691740,619844,0.27,Basico,2
+1544,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,2499552,1258579,1240973,0.5,Basico,5
+1545,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,3977488,2641579,1335909,0.34,Basico,1
+1546,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,2724355,1403010,1321345,0.49,Basico,1
+1547,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,4008612,2815305,1193307,0.3,Corporativo,1
+1548,2025-01-01,Chile,Santiago,App Movil,Tecnologia,1998814,1443553,555261,0.28,Basico,3
+1549,2025-01-01,Peru,Santiago,App Movil,Hogar,786660,416433,370227,0.47,Premium,4
+1550,2025-01-01,Peru,Lima,App Movil,Hogar,590938,466073,124865,0.21,Premium,3
+1551,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,3319803,2401282,918521,0.28,Premium,2
+1552,2025-01-01,Chile,Lima,Ecommerce,Hogar,2487402,2085954,401448,0.16,Premium,3
+1553,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,239018,136906,102112,0.43,Premium,2
+1554,2025-01-01,Chile,Bogota,Ecommerce,Oficina,1595410,767906,827504,0.52,Corporativo,3
+1555,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,3811535,2362630,1448905,0.38,Basico,4
+1556,2025-01-01,Colombia,Cartagena,App Movil,Hogar,2928967,1368892,1560075,0.53,Premium,2
+1557,2025-01-01,Chile,Santiago,Ecommerce,Hogar,1884946,1122897,762049,0.4,Premium,3
+1558,2025-01-01,Chile,Santiago,App Movil,Oficina,1909274,1475880,433394,0.23,Premium,3
+1559,2025-01-01,Peru,Santiago,App Movil,Hogar,917185,476097,441088,0.48,Basico,1
+1560,2025-01-01,Chile,Santiago,App Movil,Tecnologia,3529467,2880386,649081,0.18,Basico,1
+1561,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,4676946,3246534,1430412,0.31,Basico,4
+1562,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,1242645,799343,443302,0.36,Corporativo,5
+1563,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,2795958,1308460,1487498,0.53,Basico,5
+1564,2025-01-01,Peru,Lima,App Movil,Oficina,4154997,2142273,2012724,0.48,Basico,4
+1565,2025-01-01,Peru,Bogota,App Movil,Oficina,4606352,3274226,1332126,0.29,Corporativo,3
+1566,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,2623091,1381582,1241509,0.47,Basico,1
+1567,2025-01-01,Peru,Lima,App Movil,Hogar,1416919,648985,767934,0.54,Corporativo,1
+1568,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2935012,1334451,1600561,0.55,Basico,5
+1569,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,758665,464146,294519,0.39,Basico,3
+1570,2025-01-01,Peru,Santiago,Ecommerce,Hogar,3107347,2463527,643820,0.21,Premium,4
+1571,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,4543813,3086124,1457689,0.32,Corporativo,5
+1572,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,648558,471580,176978,0.27,Corporativo,3
+1573,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,2525400,1704206,821194,0.33,Basico,4
+1574,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,3723346,1770710,1952636,0.52,Corporativo,5
+1575,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,1074433,885880,188553,0.18,Corporativo,1
+1576,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,1975123,986621,988502,0.5,Premium,5
+1577,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,2294682,1880283,414399,0.18,Basico,1
+1578,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,4168495,3144476,1024019,0.25,Corporativo,5
+1579,2025-01-01,Peru,Santiago,App Movil,Hogar,2850892,2244504,606388,0.21,Premium,5
+1580,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,2990408,2513329,477079,0.16,Basico,5
+1581,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,229060,130149,98911,0.43,Basico,2
+1582,2025-01-01,Chile,Cartagena,App Movil,Oficina,4031359,2434067,1597292,0.4,Corporativo,5
+1583,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4874235,3874244,999991,0.21,Basico,3
+1584,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2842092,1437945,1404147,0.49,Basico,1
+1585,2025-01-01,Peru,Santiago,App Movil,Oficina,4501104,3325253,1175851,0.26,Basico,4
+1586,2025-01-01,Colombia,Cartagena,App Movil,Oficina,704526,444621,259905,0.37,Corporativo,5
+1587,2025-01-01,Mexico,Lima,App Movil,Oficina,2163274,1320877,842397,0.39,Corporativo,1
+1588,2025-01-01,Colombia,Cartagena,App Movil,Hogar,4542202,3481775,1060427,0.23,Corporativo,5
+1589,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,4142477,2958681,1183796,0.29,Corporativo,1
+1590,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,3278552,2558441,720111,0.22,Premium,4
+1591,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,740525,505355,235170,0.32,Premium,5
+1592,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,820521,636174,184347,0.22,Basico,1
+1593,2025-01-01,Peru,Bogota,Ecommerce,Oficina,4400977,2057791,2343186,0.53,Corporativo,5
+1594,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,4834870,2464799,2370071,0.49,Premium,3
+1595,2025-01-01,Peru,Cartagena,App Movil,Hogar,3549123,2890633,658490,0.19,Premium,2
+1596,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,1839303,898476,940827,0.51,Basico,3
+1597,2025-01-01,Chile,Bogota,App Movil,Hogar,4406200,2084994,2321206,0.53,Corporativo,4
+1598,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,4102464,2299012,1803452,0.44,Basico,5
+1599,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,3479856,2304838,1175018,0.34,Basico,3
+1600,2025-01-01,Colombia,Bogota,App Movil,Hogar,2693548,1449773,1243775,0.46,Corporativo,3
+1601,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,687217,407029,280188,0.41,Premium,3
+1602,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,570455,261417,309038,0.54,Basico,3
+1603,2025-01-01,Peru,Lima,App Movil,Oficina,2272763,1033537,1239226,0.55,Basico,2
+1604,2025-01-01,Chile,Cartagena,App Movil,Hogar,2115202,1343744,771458,0.36,Corporativo,1
+1605,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,1219953,907150,312803,0.26,Corporativo,1
+1606,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,4283780,2640274,1643506,0.38,Premium,2
+1607,2025-01-01,Peru,Santiago,App Movil,Tecnologia,3619634,1891442,1728192,0.48,Premium,1
+1608,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,1826357,1451875,374482,0.21,Premium,1
+1609,2025-01-01,Peru,Lima,App Movil,Tecnologia,661662,373656,288006,0.44,Basico,2
+1610,2025-01-01,Chile,Lima,Ecommerce,Oficina,1862678,1287407,575271,0.31,Premium,3
+1611,2025-01-01,Peru,Lima,Ecommerce,Oficina,4488071,3465337,1022734,0.23,Premium,2
+1612,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,1788266,1011854,776412,0.43,Corporativo,1
+1613,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,2571828,1794012,777816,0.3,Corporativo,3
+1614,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,1383911,679389,704522,0.51,Corporativo,1
+1615,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,1178005,961044,216961,0.18,Premium,1
+1616,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,2290717,1619338,671379,0.29,Premium,4
+1617,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,749501,348673,400828,0.53,Basico,1
+1618,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,3455932,1612542,1843390,0.53,Basico,5
+1619,2025-01-01,Colombia,Lima,App Movil,Hogar,1106262,824633,281629,0.25,Basico,5
+1620,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,3905212,3082983,822229,0.21,Basico,3
+1621,2025-01-01,Chile,Santiago,Ecommerce,Hogar,2681164,1876386,804778,0.3,Corporativo,4
+1622,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,1746075,1253869,492206,0.28,Basico,3
+1623,2025-01-01,Mexico,Lima,Ecommerce,Hogar,3166620,2101467,1065153,0.34,Basico,1
+1624,2025-01-01,Mexico,Lima,Ecommerce,Hogar,671121,556468,114653,0.17,Basico,5
+1625,2025-01-01,Peru,Santiago,Ecommerce,Oficina,2912342,1453546,1458796,0.5,Basico,3
+1626,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,1196939,876930,320009,0.27,Corporativo,2
+1627,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,428054,284203,143851,0.34,Premium,3
+1628,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,761780,608863,152917,0.2,Corporativo,2
+1629,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,4139154,2356353,1782801,0.43,Basico,3
+1630,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,1044130,527095,517035,0.5,Basico,1
+1631,2025-01-01,Peru,Santiago,App Movil,Hogar,1764658,1218642,546016,0.31,Basico,1
+1632,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,3430077,1842448,1587629,0.46,Premium,4
+1633,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,176856,103697,73159,0.41,Corporativo,4
+1634,2025-01-01,Chile,Lima,App Movil,Oficina,2836922,2214940,621982,0.22,Corporativo,5
+1635,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,1015757,724186,291571,0.29,Premium,4
+1636,2025-01-01,Chile,Santiago,App Movil,Tecnologia,1055330,653829,401501,0.38,Corporativo,1
+1637,2025-01-01,Mexico,Lima,App Movil,Oficina,4894841,2403430,2491411,0.51,Basico,4
+1638,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,4965794,2460614,2505180,0.5,Premium,3
+1639,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,2739059,1662425,1076634,0.39,Premium,4
+1640,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,2512144,1739514,772630,0.31,Premium,4
+1641,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,2151632,1429854,721778,0.34,Basico,4
+1642,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,788046,393740,394306,0.5,Corporativo,4
+1643,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,514860,409640,105220,0.2,Basico,2
+1644,2025-01-01,Mexico,Lima,Ecommerce,Hogar,2656768,1535549,1121219,0.42,Corporativo,5
+1645,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,4672280,2936361,1735919,0.37,Premium,1
+1646,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,4540642,2118140,2422502,0.53,Premium,3
+1647,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,1562669,851249,711420,0.46,Corporativo,1
+1648,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,1544767,1296426,248341,0.16,Premium,1
+1649,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,3692852,2896625,796227,0.22,Premium,3
+1650,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,812546,503371,309175,0.38,Premium,2
+1651,2025-01-01,Peru,Santiago,Ecommerce,Oficina,2867268,2428006,439262,0.15,Basico,2
+1652,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,905577,423811,481766,0.53,Corporativo,3
+1653,2025-01-01,Chile,Bogota,Ecommerce,Tecnologia,356081,274887,81194,0.23,Basico,1
+1654,2025-01-01,Chile,Santiago,App Movil,Hogar,1325642,729299,596343,0.45,Corporativo,1
+1655,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,968459,482343,486116,0.5,Corporativo,4
+1656,2025-01-01,Colombia,Bogota,App Movil,Hogar,2060447,1149361,911086,0.44,Basico,4
+1657,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,313861,174572,139289,0.44,Corporativo,3
+1658,2025-01-01,Peru,Lima,App Movil,Hogar,2482688,1191571,1291117,0.52,Basico,2
+1659,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,1026566,610274,416292,0.41,Corporativo,4
+1660,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,3875172,2350266,1524906,0.39,Premium,1
+1661,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,609116,331053,278063,0.46,Basico,5
+1662,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,1203363,858886,344477,0.29,Premium,1
+1663,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,221619,168440,53179,0.24,Corporativo,5
+1664,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,4142649,2726735,1415914,0.34,Corporativo,5
+1665,2025-01-01,Chile,Santiago,Tienda Fisica,Tecnologia,2861353,2101155,760198,0.27,Basico,3
+1666,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,2450356,1356776,1093580,0.45,Premium,3
+1667,2025-01-01,Colombia,Cartagena,App Movil,Hogar,4982598,3232155,1750443,0.35,Basico,4
+1668,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,3476295,2765475,710820,0.2,Premium,2
+1669,2025-01-01,Colombia,Lima,App Movil,Tecnologia,231716,160652,71064,0.31,Corporativo,4
+1670,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2873723,2041088,832635,0.29,Corporativo,4
+1671,2025-01-01,Colombia,Cartagena,App Movil,Hogar,760485,611714,148771,0.2,Corporativo,3
+1672,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,486801,354725,132076,0.27,Premium,1
+1673,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,2182169,1448534,733635,0.34,Premium,5
+1674,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,4950149,2528538,2421611,0.49,Basico,1
+1675,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,3886955,2944202,942753,0.24,Premium,3
+1676,2025-01-01,Peru,Cartagena,App Movil,Hogar,4025164,1974828,2050336,0.51,Premium,2
+1677,2025-01-01,Chile,Cartagena,App Movil,Hogar,3489048,2243387,1245661,0.36,Basico,2
+1678,2025-01-01,Mexico,Lima,App Movil,Tecnologia,4102096,2017671,2084425,0.51,Basico,5
+1679,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,3945150,2241219,1703931,0.43,Basico,3
+1680,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,737214,553654,183560,0.25,Premium,5
+1681,2025-01-01,Colombia,Lima,App Movil,Oficina,3222953,2547501,675452,0.21,Premium,5
+1682,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,523289,295781,227508,0.43,Premium,3
+1683,2025-01-01,Mexico,Santiago,App Movil,Oficina,4266696,2746443,1520253,0.36,Basico,1
+1684,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,1627766,927807,699959,0.43,Basico,5
+1685,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,3207092,2111751,1095341,0.34,Basico,4
+1686,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,1838716,976940,861776,0.47,Basico,2
+1687,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,3584347,2963314,621033,0.17,Premium,3
+1688,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,3567683,2172850,1394833,0.39,Basico,1
+1689,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,4915121,3578718,1336403,0.27,Premium,5
+1690,2025-01-01,Chile,Lima,Tienda Fisica,Tecnologia,1041479,696028,345451,0.33,Basico,3
+1691,2025-01-01,Peru,Cartagena,Ecommerce,Hogar,4937982,3297331,1640651,0.33,Corporativo,2
+1692,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,1225345,645968,579377,0.47,Premium,5
+1693,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,777933,616027,161906,0.21,Corporativo,2
+1694,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,1263005,576652,686353,0.54,Corporativo,5
+1695,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1790664,1298911,491753,0.27,Corporativo,1
+1696,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,733819,339674,394145,0.54,Premium,2
+1697,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,2633651,2044267,589384,0.22,Corporativo,3
+1698,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2148422,1144849,1003573,0.47,Basico,2
+1699,2025-01-01,Mexico,Bogota,App Movil,Hogar,1268768,1034631,234137,0.18,Premium,2
+1700,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,3818762,2554813,1263949,0.33,Basico,4
+1701,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,2279860,1271997,1007863,0.44,Basico,3
+1702,2025-01-01,Peru,Lima,App Movil,Tecnologia,1357066,702055,655011,0.48,Premium,3
+1703,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2123899,1525374,598525,0.28,Corporativo,5
+1704,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,1293115,863947,429168,0.33,Basico,5
+1705,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,669800,508799,161001,0.24,Premium,5
+1706,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,4581942,3168851,1413091,0.31,Basico,4
+1707,2025-01-01,Colombia,Bogota,App Movil,Hogar,2191550,1773370,418180,0.19,Basico,4
+1708,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,3021040,1587794,1433246,0.47,Corporativo,5
+1709,2025-01-01,Chile,Santiago,Tienda Fisica,Hogar,2729789,2304309,425480,0.16,Basico,4
+1710,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,4921173,2439611,2481562,0.5,Basico,5
+1711,2025-01-01,Peru,Bogota,Ecommerce,Oficina,3637342,1999653,1637689,0.45,Premium,3
+1712,2025-01-01,Peru,Lima,App Movil,Oficina,696454,324511,371943,0.53,Premium,3
+1713,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,4944121,2269177,2674944,0.54,Basico,2
+1714,2025-01-01,Chile,Lima,App Movil,Hogar,3996962,3088799,908163,0.23,Corporativo,2
+1715,2025-01-01,Colombia,Lima,App Movil,Oficina,443226,223510,219716,0.5,Premium,3
+1716,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,2190222,1791945,398277,0.18,Corporativo,2
+1717,2025-01-01,Peru,Lima,App Movil,Oficina,4726131,3414211,1311920,0.28,Corporativo,1
+1718,2025-01-01,Colombia,Santiago,Ecommerce,Oficina,4242470,3015104,1227366,0.29,Premium,2
+1719,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2882044,1675383,1206661,0.42,Basico,5
+1720,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,1088146,733144,355002,0.33,Corporativo,4
+1721,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1256360,658240,598120,0.48,Corporativo,2
+1722,2025-01-01,Mexico,Lima,Ecommerce,Oficina,3529006,2290596,1238410,0.35,Premium,2
+1723,2025-01-01,Chile,Bogota,Ecommerce,Hogar,4666885,3205105,1461780,0.31,Corporativo,3
+1724,2025-01-01,Mexico,Cartagena,App Movil,Oficina,3257934,2558377,699557,0.21,Corporativo,5
+1725,2025-01-01,Mexico,Santiago,Ecommerce,Tecnologia,4566660,3102658,1464002,0.32,Premium,1
+1726,2025-01-01,Mexico,Lima,App Movil,Tecnologia,1496931,1230358,266573,0.18,Premium,5
+1727,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,4613849,3667492,946357,0.21,Premium,5
+1728,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,708773,583910,124863,0.18,Corporativo,2
+1729,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,3646329,3047697,598632,0.16,Corporativo,4
+1730,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,1776619,967689,808930,0.46,Corporativo,1
+1731,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,3583152,2417254,1165898,0.33,Corporativo,2
+1732,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,883457,488825,394632,0.45,Premium,3
+1733,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,395816,238701,157115,0.4,Basico,2
+1734,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,2278069,1171624,1106445,0.49,Corporativo,3
+1735,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,3244413,2274294,970119,0.3,Corporativo,3
+1736,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,1305647,1013985,291662,0.22,Premium,2
+1737,2025-01-01,Mexico,Santiago,App Movil,Oficina,1267880,643550,624330,0.49,Corporativo,1
+1738,2025-01-01,Chile,Bogota,App Movil,Oficina,2591613,1967712,623901,0.24,Corporativo,3
+1739,2025-01-01,Colombia,Lima,App Movil,Hogar,4093795,1893159,2200636,0.54,Premium,5
+1740,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,2266595,1320971,945624,0.42,Basico,2
+1741,2025-01-01,Colombia,Lima,App Movil,Hogar,4382716,2792090,1590626,0.36,Premium,3
+1742,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,2930542,2478434,452108,0.15,Basico,5
+1743,2025-01-01,Peru,Lima,Ecommerce,Hogar,1147433,570131,577302,0.5,Premium,5
+1744,2025-01-01,Peru,Santiago,App Movil,Tecnologia,1320358,1042014,278344,0.21,Premium,4
+1745,2025-01-01,Colombia,Bogota,App Movil,Hogar,1512221,741004,771217,0.51,Basico,2
+1746,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,2050651,1736285,314366,0.15,Corporativo,1
+1747,2025-01-01,Mexico,Cartagena,App Movil,Hogar,2563660,1813898,749762,0.29,Corporativo,4
+1748,2025-01-01,Colombia,Bogota,Ecommerce,Hogar,1924197,1531763,392434,0.2,Basico,4
+1749,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,4701514,3146700,1554814,0.33,Basico,3
+1750,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,2010537,942529,1068008,0.53,Corporativo,5
+1751,2025-01-01,Mexico,Lima,App Movil,Oficina,1697917,1321534,376383,0.22,Corporativo,4
+1752,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,1395695,1089903,305792,0.22,Corporativo,5
+1753,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,230831,152659,78172,0.34,Basico,2
+1754,2025-01-01,Mexico,Lima,App Movil,Tecnologia,4357409,2787790,1569619,0.36,Corporativo,5
+1755,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,4287802,2758580,1529222,0.36,Basico,4
+1756,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,151853,110834,41019,0.27,Basico,4
+1757,2025-01-01,Peru,Cartagena,App Movil,Oficina,585145,318651,266494,0.46,Corporativo,4
+1758,2025-01-01,Colombia,Lima,App Movil,Oficina,3398669,2405345,993324,0.29,Premium,1
+1759,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,1464718,682658,782060,0.53,Corporativo,2
+1760,2025-01-01,Mexico,Bogota,App Movil,Oficina,237215,125616,111599,0.47,Premium,3
+1761,2025-01-01,Chile,Cartagena,App Movil,Hogar,4098543,2752059,1346484,0.33,Corporativo,3
+1762,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,2376667,1374931,1001736,0.42,Premium,2
+1763,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1667163,1128918,538245,0.32,Premium,5
+1764,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,2456782,2049096,407686,0.17,Basico,5
+1765,2025-01-01,Mexico,Lima,Ecommerce,Hogar,4247502,2561332,1686170,0.4,Corporativo,3
+1766,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,1823133,1194499,628634,0.34,Corporativo,2
+1767,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,1618147,1226948,391199,0.24,Premium,2
+1768,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,2127362,1657282,470080,0.22,Corporativo,2
+1769,2025-01-01,Mexico,Cartagena,App Movil,Oficina,1632882,978071,654811,0.4,Premium,4
+1770,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,1585794,1167817,417977,0.26,Premium,5
+1771,2025-01-01,Colombia,Lima,App Movil,Oficina,1176967,636431,540536,0.46,Premium,5
+1772,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,1128281,681299,446982,0.4,Premium,1
+1773,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,4916732,3464021,1452711,0.3,Basico,2
+1774,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,2384592,1651414,733178,0.31,Premium,1
+1775,2025-01-01,Chile,Santiago,App Movil,Oficina,1406650,903463,503187,0.36,Basico,5
+1776,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,2550272,1282618,1267654,0.5,Premium,1
+1777,2025-01-01,Peru,Santiago,Tienda Fisica,Hogar,859343,635414,223929,0.26,Basico,3
+1778,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,613492,360006,253486,0.41,Corporativo,3
+1779,2025-01-01,Colombia,Cartagena,App Movil,Hogar,407502,308520,98982,0.24,Corporativo,5
+1780,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,780472,461343,319129,0.41,Basico,4
+1781,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,2249391,1447529,801862,0.36,Basico,3
+1782,2025-01-01,Colombia,Bogota,App Movil,Hogar,1151630,766273,385357,0.33,Premium,1
+1783,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4538129,2927319,1610810,0.35,Corporativo,5
+1784,2025-01-01,Peru,Lima,App Movil,Oficina,2774229,1334735,1439494,0.52,Premium,3
+1785,2025-01-01,Chile,Bogota,Ecommerce,Hogar,1496759,737956,758803,0.51,Corporativo,4
+1786,2025-01-01,Colombia,Santiago,Tienda Fisica,Oficina,3697661,2647716,1049945,0.28,Corporativo,2
+1787,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,827392,518818,308574,0.37,Basico,3
+1788,2025-01-01,Chile,Cartagena,App Movil,Oficina,3638765,2093363,1545402,0.42,Premium,2
+1789,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,2852349,1517605,1334744,0.47,Premium,3
+1790,2025-01-01,Mexico,Santiago,App Movil,Oficina,2818728,1646427,1172301,0.42,Corporativo,1
+1791,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,2669344,1901852,767492,0.29,Premium,2
+1792,2025-01-01,Chile,Santiago,App Movil,Oficina,2488232,1781900,706332,0.28,Basico,4
+1793,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,1499093,1008146,490947,0.33,Basico,5
+1794,2025-01-01,Colombia,Santiago,App Movil,Hogar,359175,191697,167478,0.47,Premium,5
+1795,2025-01-01,Peru,Bogota,Ecommerce,Hogar,4926910,3853398,1073512,0.22,Corporativo,5
+1796,2025-01-01,Mexico,Lima,App Movil,Tecnologia,2316305,1279562,1036743,0.45,Corporativo,2
+1797,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,4754180,3851505,902675,0.19,Basico,4
+1798,2025-01-01,Peru,Santiago,App Movil,Hogar,2013604,1065446,948158,0.47,Corporativo,2
+1799,2025-01-01,Chile,Lima,Tienda Fisica,Oficina,3023650,1816050,1207600,0.4,Premium,2
+1800,2025-01-01,Chile,Bogota,App Movil,Hogar,1111992,803796,308196,0.28,Basico,5
+1801,2025-01-01,Mexico,Bogota,Ecommerce,Tecnologia,1797711,1478799,318912,0.18,Basico,1
+1802,2025-01-01,Chile,Bogota,App Movil,Tecnologia,3119583,2299585,819998,0.26,Premium,3
+1803,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,2277034,1457537,819497,0.36,Premium,3
+1804,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,165420,112650,52770,0.32,Corporativo,1
+1805,2025-01-01,Chile,Bogota,App Movil,Hogar,3988843,2596040,1392803,0.35,Basico,2
+1806,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,4571687,3616593,955094,0.21,Premium,1
+1807,2025-01-01,Mexico,Lima,Ecommerce,Hogar,1381403,733773,647630,0.47,Corporativo,1
+1808,2025-01-01,Chile,Santiago,App Movil,Hogar,566871,457081,109790,0.19,Corporativo,1
+1809,2025-01-01,Chile,Bogota,Ecommerce,Hogar,510394,293132,217262,0.43,Premium,5
+1810,2025-01-01,Colombia,Cartagena,App Movil,Oficina,599493,366133,233360,0.39,Basico,3
+1811,2025-01-01,Peru,Lima,App Movil,Tecnologia,4124149,2279524,1844625,0.45,Corporativo,2
+1812,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,2981192,2474698,506494,0.17,Corporativo,5
+1813,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,1448922,679815,769107,0.53,Corporativo,1
+1814,2025-01-01,Chile,Bogota,Ecommerce,Oficina,802992,559769,243223,0.3,Basico,1
+1815,2025-01-01,Mexico,Lima,Tienda Fisica,Hogar,4180440,2782668,1397772,0.33,Corporativo,3
+1816,2025-01-01,Peru,Lima,Ecommerce,Hogar,421004,215757,205247,0.49,Premium,1
+1817,2025-01-01,Chile,Lima,Ecommerce,Hogar,1936344,974759,961585,0.5,Basico,1
+1818,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,922076,625999,296077,0.32,Corporativo,5
+1819,2025-01-01,Mexico,Bogota,App Movil,Oficina,4787878,3546524,1241354,0.26,Premium,1
+1820,2025-01-01,Mexico,Lima,App Movil,Oficina,3789939,3191140,598799,0.16,Corporativo,4
+1821,2025-01-01,Chile,Santiago,App Movil,Tecnologia,3219007,1710623,1508384,0.47,Corporativo,1
+1822,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,3873543,2843110,1030433,0.27,Basico,3
+1823,2025-01-01,Chile,Cartagena,Tienda Fisica,Tecnologia,3660141,2508926,1151215,0.31,Corporativo,1
+1824,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,3451376,2194448,1256928,0.36,Corporativo,3
+1825,2025-01-01,Colombia,Bogota,App Movil,Oficina,3384668,1736092,1648576,0.49,Corporativo,2
+1826,2025-01-01,Mexico,Cartagena,Ecommerce,Hogar,4806719,3692862,1113857,0.23,Basico,5
+1827,2025-01-01,Colombia,Lima,App Movil,Hogar,1250569,570088,680481,0.54,Basico,4
+1828,2025-01-01,Peru,Lima,Tienda Fisica,Tecnologia,950597,589353,361244,0.38,Basico,5
+1829,2025-01-01,Colombia,Santiago,Ecommerce,Tecnologia,2496088,1252295,1243793,0.5,Corporativo,2
+1830,2025-01-01,Peru,Santiago,Tienda Fisica,Oficina,1631974,961339,670635,0.41,Premium,1
+1831,2025-01-01,Peru,Lima,Ecommerce,Hogar,3614645,2430274,1184371,0.33,Corporativo,2
+1832,2025-01-01,Mexico,Bogota,Tienda Fisica,Hogar,1991246,1202910,788336,0.4,Basico,1
+1833,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,3449220,2339767,1109453,0.32,Premium,3
+1834,2025-01-01,Peru,Bogota,App Movil,Hogar,4347558,2507230,1840328,0.42,Corporativo,3
+1835,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,4677762,3951604,726158,0.16,Basico,2
+1836,2025-01-01,Mexico,Santiago,App Movil,Hogar,920010,705836,214174,0.23,Corporativo,5
+1837,2025-01-01,Peru,Cartagena,App Movil,Hogar,1126077,823930,302147,0.27,Basico,3
+1838,2025-01-01,Colombia,Bogota,Tienda Fisica,Oficina,832514,417703,414811,0.5,Basico,4
+1839,2025-01-01,Mexico,Lima,Tienda Fisica,Tecnologia,1269910,576451,693459,0.55,Corporativo,5
+1840,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,2133950,1695366,438584,0.21,Corporativo,3
+1841,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,4623683,3073833,1549850,0.34,Premium,5
+1842,2025-01-01,Chile,Bogota,Ecommerce,Oficina,4992755,3175698,1817057,0.36,Corporativo,3
+1843,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,1094406,575780,518626,0.47,Corporativo,4
+1844,2025-01-01,Peru,Lima,Ecommerce,Hogar,2064903,1287346,777557,0.38,Corporativo,5
+1845,2025-01-01,Peru,Cartagena,App Movil,Oficina,2524558,1427019,1097539,0.43,Corporativo,3
+1846,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,4173251,2260990,1912261,0.46,Premium,4
+1847,2025-01-01,Chile,Bogota,App Movil,Tecnologia,2463316,2043663,419653,0.17,Premium,4
+1848,2025-01-01,Peru,Bogota,App Movil,Oficina,168292,127371,40921,0.24,Basico,3
+1849,2025-01-01,Peru,Lima,App Movil,Oficina,2942453,2105602,836851,0.28,Basico,1
+1850,2025-01-01,Mexico,Cartagena,App Movil,Tecnologia,4941915,2630728,2311187,0.47,Corporativo,2
+1851,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,2662674,1340606,1322068,0.5,Basico,3
+1852,2025-01-01,Chile,Lima,App Movil,Hogar,4912342,3926269,986073,0.2,Corporativo,2
+1853,2025-01-01,Colombia,Santiago,Ecommerce,Hogar,3286841,1544177,1742664,0.53,Corporativo,4
+1854,2025-01-01,Chile,Lima,Ecommerce,Hogar,2207613,1438229,769384,0.35,Basico,3
+1855,2025-01-01,Chile,Lima,App Movil,Oficina,1144672,558396,586276,0.51,Corporativo,1
+1856,2025-01-01,Colombia,Cartagena,Ecommerce,Tecnologia,2272525,1539275,733250,0.32,Corporativo,3
+1857,2025-01-01,Colombia,Lima,Ecommerce,Hogar,1056997,606167,450830,0.43,Premium,2
+1858,2025-01-01,Colombia,Bogota,Tienda Fisica,Hogar,4388791,3411451,977340,0.22,Premium,4
+1859,2025-01-01,Colombia,Lima,App Movil,Hogar,2465861,1702079,763782,0.31,Basico,2
+1860,2025-01-01,Mexico,Santiago,App Movil,Tecnologia,2674987,2180809,494178,0.18,Basico,2
+1861,2025-01-01,Chile,Santiago,App Movil,Tecnologia,2605401,1789573,815828,0.31,Corporativo,1
+1862,2025-01-01,Peru,Santiago,App Movil,Tecnologia,975204,639627,335577,0.34,Basico,5
+1863,2025-01-01,Chile,Bogota,App Movil,Tecnologia,3806222,2419519,1386703,0.36,Premium,4
+1864,2025-01-01,Mexico,Cartagena,Tienda Fisica,Hogar,1272591,899780,372811,0.29,Corporativo,3
+1865,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,2666318,1887942,778376,0.29,Basico,1
+1866,2025-01-01,Chile,Cartagena,Ecommerce,Tecnologia,756054,508646,247408,0.33,Basico,3
+1867,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,385748,247059,138689,0.36,Premium,5
+1868,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,2129898,1727470,402428,0.19,Corporativo,3
+1869,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,4204079,3111307,1092772,0.26,Premium,3
+1870,2025-01-01,Peru,Bogota,Tienda Fisica,Oficina,4131308,2817773,1313535,0.32,Basico,2
+1871,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,921377,652555,268822,0.29,Basico,3
+1872,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3044211,1453129,1591082,0.52,Premium,1
+1873,2025-01-01,Chile,Santiago,App Movil,Hogar,1497020,1086225,410795,0.27,Basico,1
+1874,2025-01-01,Chile,Cartagena,App Movil,Hogar,3657695,2510528,1147167,0.31,Basico,5
+1875,2025-01-01,Mexico,Santiago,Tienda Fisica,Tecnologia,3609712,1876731,1732981,0.48,Corporativo,1
+1876,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,4208141,2696786,1511355,0.36,Basico,2
+1877,2025-01-01,Peru,Bogota,App Movil,Hogar,3835198,2862253,972945,0.25,Basico,5
+1878,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,4784912,3930078,854834,0.18,Corporativo,2
+1879,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,4043295,2017120,2026175,0.5,Corporativo,2
+1880,2025-01-01,Peru,Cartagena,App Movil,Hogar,1708622,837005,871617,0.51,Corporativo,1
+1881,2025-01-01,Peru,Santiago,Ecommerce,Tecnologia,2777434,1385676,1391758,0.5,Corporativo,2
+1882,2025-01-01,Mexico,Bogota,App Movil,Tecnologia,4125682,2114543,2011139,0.49,Premium,5
+1883,2025-01-01,Chile,Cartagena,Tienda Fisica,Oficina,235675,169489,66186,0.28,Basico,2
+1884,2025-01-01,Mexico,Bogota,Tienda Fisica,Oficina,2066600,1264049,802551,0.39,Corporativo,4
+1885,2025-01-01,Mexico,Santiago,Ecommerce,Hogar,3828238,2528718,1299520,0.34,Corporativo,4
+1886,2025-01-01,Chile,Lima,App Movil,Hogar,885111,705280,179831,0.2,Corporativo,1
+1887,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,1222642,781514,441128,0.36,Premium,2
+1888,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,358584,243547,115037,0.32,Premium,4
+1889,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,3088031,1768113,1319918,0.43,Basico,2
+1890,2025-01-01,Colombia,Bogota,App Movil,Oficina,4033164,2171181,1861983,0.46,Corporativo,5
+1891,2025-01-01,Peru,Cartagena,App Movil,Hogar,790403,572986,217417,0.28,Basico,4
+1892,2025-01-01,Chile,Cartagena,Tienda Fisica,Hogar,3000696,2145717,854979,0.28,Corporativo,1
+1893,2025-01-01,Chile,Santiago,Tienda Fisica,Oficina,322237,259814,62423,0.19,Corporativo,4
+1894,2025-01-01,Mexico,Cartagena,Ecommerce,Tecnologia,946664,780889,165775,0.18,Corporativo,3
+1895,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1901048,1612443,288605,0.15,Premium,4
+1896,2025-01-01,Mexico,Lima,Ecommerce,Hogar,2783977,1627717,1156260,0.42,Premium,3
+1897,2025-01-01,Mexico,Bogota,Tienda Fisica,Tecnologia,3014883,1477641,1537242,0.51,Corporativo,4
+1898,2025-01-01,Chile,Santiago,App Movil,Tecnologia,3050691,2267918,782773,0.26,Basico,5
+1899,2025-01-01,Peru,Cartagena,Tienda Fisica,Oficina,2776591,1643331,1133260,0.41,Corporativo,2
+1900,2025-01-01,Chile,Santiago,Ecommerce,Hogar,3378232,2130059,1248173,0.37,Basico,2
+1901,2025-01-01,Peru,Bogota,App Movil,Hogar,1036189,670021,366168,0.35,Premium,4
+1902,2025-01-01,Peru,Bogota,Ecommerce,Tecnologia,2080184,1324628,755556,0.36,Premium,2
+1903,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,3361864,2307445,1054419,0.31,Corporativo,5
+1904,2025-01-01,Peru,Bogota,App Movil,Oficina,2953807,1510135,1443672,0.49,Premium,5
+1905,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,2376467,1092742,1283725,0.54,Basico,5
+1906,2025-01-01,Colombia,Lima,Tienda Fisica,Oficina,2595053,1581120,1013933,0.39,Corporativo,4
+1907,2025-01-01,Peru,Santiago,Tienda Fisica,Tecnologia,2065303,1298430,766873,0.37,Premium,3
+1908,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,226235,104187,122048,0.54,Premium,3
+1909,2025-01-01,Colombia,Lima,Tienda Fisica,Hogar,3692843,2097605,1595238,0.43,Corporativo,3
+1910,2025-01-01,Mexico,Lima,Tienda Fisica,Oficina,2419303,1790929,628374,0.26,Basico,4
+1911,2025-01-01,Peru,Lima,Tienda Fisica,Oficina,608216,316987,291229,0.48,Corporativo,5
+1912,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,1365560,643358,722202,0.53,Premium,4
+1913,2025-01-01,Colombia,Cartagena,App Movil,Oficina,2021613,1206534,815079,0.4,Basico,4
+1914,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,3406421,2160517,1245904,0.37,Premium,1
+1915,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,1905360,1456326,449034,0.24,Corporativo,1
+1916,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,4611666,2707576,1904090,0.41,Basico,1
+1917,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,1448683,1073618,375065,0.26,Premium,5
+1918,2025-01-01,Mexico,Bogota,Ecommerce,Hogar,3628938,2328352,1300586,0.36,Premium,2
+1919,2025-01-01,Chile,Cartagena,App Movil,Oficina,1424285,681906,742379,0.52,Corporativo,3
+1920,2025-01-01,Peru,Cartagena,App Movil,Tecnologia,2253624,1090465,1163159,0.52,Corporativo,1
+1921,2025-01-01,Colombia,Lima,Ecommerce,Oficina,2514388,1921890,592498,0.24,Basico,3
+1922,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,2534748,1881971,652777,0.26,Corporativo,5
+1923,2025-01-01,Mexico,Lima,App Movil,Oficina,1140895,657068,483827,0.42,Basico,5
+1924,2025-01-01,Colombia,Cartagena,Ecommerce,Hogar,4071677,2649592,1422085,0.35,Premium,1
+1925,2025-01-01,Colombia,Bogota,App Movil,Tecnologia,302039,185940,116099,0.38,Basico,2
+1926,2025-01-01,Peru,Cartagena,App Movil,Hogar,3336684,2695247,641437,0.19,Corporativo,3
+1927,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,1918969,1004852,914117,0.48,Basico,2
+1928,2025-01-01,Mexico,Bogota,Ecommerce,Oficina,3734974,2515804,1219170,0.33,Corporativo,3
+1929,2025-01-01,Peru,Cartagena,Ecommerce,Oficina,1776779,1427438,349341,0.2,Basico,3
+1930,2025-01-01,Colombia,Cartagena,Tienda Fisica,Hogar,2860883,2279511,581372,0.2,Corporativo,1
+1931,2025-01-01,Chile,Bogota,Tienda Fisica,Tecnologia,1970875,1283954,686921,0.35,Premium,4
+1932,2025-01-01,Chile,Lima,App Movil,Oficina,1170518,730368,440150,0.38,Basico,5
+1933,2025-01-01,Colombia,Santiago,Tienda Fisica,Hogar,1243079,719481,523598,0.42,Basico,2
+1934,2025-01-01,Peru,Bogota,Ecommerce,Hogar,3963441,2383941,1579500,0.4,Corporativo,1
+1935,2025-01-01,Mexico,Santiago,Ecommerce,Oficina,4974917,3036809,1938108,0.39,Premium,1
+1936,2025-01-01,Mexico,Cartagena,Tienda Fisica,Tecnologia,1866518,870175,996343,0.53,Corporativo,2
+1937,2025-01-01,Chile,Santiago,Ecommerce,Oficina,523927,400373,123554,0.24,Basico,4
+1938,2025-01-01,Chile,Lima,App Movil,Oficina,1499644,1011932,487712,0.33,Premium,5
+1939,2025-01-01,Colombia,Santiago,Tienda Fisica,Tecnologia,4790785,2590474,2200311,0.46,Basico,2
+1940,2025-01-01,Peru,Lima,App Movil,Tecnologia,4748335,3152796,1595539,0.34,Corporativo,1
+1941,2025-01-01,Peru,Santiago,Ecommerce,Hogar,1424819,874351,550468,0.39,Corporativo,5
+1942,2025-01-01,Chile,Bogota,Ecommerce,Hogar,4544350,2845763,1698587,0.37,Corporativo,4
+1943,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,2375327,1547803,827524,0.35,Corporativo,3
+1944,2025-01-01,Chile,Lima,Ecommerce,Oficina,1258239,629072,629167,0.5,Corporativo,5
+1945,2025-01-01,Chile,Lima,App Movil,Tecnologia,1702160,907944,794216,0.47,Basico,4
+1946,2025-01-01,Chile,Santiago,App Movil,Hogar,4353147,3523926,829221,0.19,Premium,4
+1947,2025-01-01,Colombia,Cartagena,Ecommerce,Oficina,854505,397026,457479,0.54,Basico,2
+1948,2025-01-01,Mexico,Cartagena,Tienda Fisica,Oficina,1850609,892471,958138,0.52,Basico,2
+1949,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,4797713,2998560,1799153,0.38,Corporativo,2
+1950,2025-01-01,Chile,Lima,App Movil,Hogar,2096288,1056121,1040167,0.5,Premium,1
+1951,2025-01-01,Colombia,Lima,Tienda Fisica,Tecnologia,2580127,1269485,1310642,0.51,Corporativo,4
+1952,2025-01-01,Chile,Lima,App Movil,Hogar,4819648,2256142,2563506,0.53,Corporativo,2
+1953,2025-01-01,Chile,Lima,Ecommerce,Oficina,1386649,765932,620717,0.45,Basico,4
+1954,2025-01-01,Chile,Bogota,App Movil,Tecnologia,974701,543990,430711,0.44,Corporativo,3
+1955,2025-01-01,Peru,Santiago,App Movil,Hogar,136964,95711,41253,0.3,Premium,1
+1956,2025-01-01,Mexico,Santiago,Tienda Fisica,Hogar,177610,130286,47324,0.27,Premium,5
+1957,2025-01-01,Mexico,Lima,App Movil,Oficina,4238234,2788770,1449464,0.34,Corporativo,4
+1958,2025-01-01,Peru,Cartagena,App Movil,Oficina,685600,499047,186553,0.27,Premium,2
+1959,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,2602674,1908994,693680,0.27,Premium,4
+1960,2025-01-01,Chile,Bogota,App Movil,Oficina,2513696,1281018,1232678,0.49,Premium,1
+1961,2025-01-01,Chile,Cartagena,Ecommerce,Hogar,4975375,3241778,1733597,0.35,Basico,3
+1962,2025-01-01,Chile,Santiago,App Movil,Oficina,1022163,514880,507283,0.5,Basico,2
+1963,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,3225795,1613226,1612569,0.5,Basico,1
+1964,2025-01-01,Mexico,Bogota,App Movil,Hogar,2907790,1464096,1443694,0.5,Corporativo,3
+1965,2025-01-01,Chile,Bogota,Tienda Fisica,Hogar,3386321,2770095,616226,0.18,Corporativo,3
+1966,2025-01-01,Colombia,Lima,Ecommerce,Tecnologia,3474559,1795645,1678914,0.48,Corporativo,3
+1967,2025-01-01,Peru,Santiago,Ecommerce,Oficina,3646505,2688144,958361,0.26,Premium,4
+1968,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,1759561,1277372,482189,0.27,Premium,3
+1969,2025-01-01,Peru,Lima,Ecommerce,Hogar,938688,739961,198727,0.21,Premium,3
+1970,2025-01-01,Colombia,Cartagena,Tienda Fisica,Oficina,978385,589533,388852,0.4,Corporativo,1
+1971,2025-01-01,Chile,Cartagena,App Movil,Tecnologia,387341,193096,194245,0.5,Premium,5
+1972,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,1964104,1445525,518579,0.26,Premium,1
+1973,2025-01-01,Colombia,Bogota,Ecommerce,Oficina,2985962,1887942,1098020,0.37,Corporativo,3
+1974,2025-01-01,Peru,Santiago,App Movil,Oficina,4352783,2632979,1719804,0.4,Corporativo,3
+1975,2025-01-01,Mexico,Cartagena,Ecommerce,Oficina,2769992,1933273,836719,0.3,Corporativo,5
+1976,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,3851923,1874310,1977613,0.51,Basico,4
+1977,2025-01-01,Mexico,Bogota,App Movil,Oficina,4888610,2463165,2425445,0.5,Basico,4
+1978,2025-01-01,Peru,Cartagena,Tienda Fisica,Hogar,2445742,1985236,460506,0.19,Corporativo,1
+1979,2025-01-01,Peru,Cartagena,Ecommerce,Tecnologia,4136332,2304825,1831507,0.44,Premium,3
+1980,2025-01-01,Peru,Cartagena,Tienda Fisica,Tecnologia,1452752,1138120,314632,0.22,Corporativo,1
+1981,2025-01-01,Peru,Lima,Tienda Fisica,Hogar,4622241,3564444,1057797,0.23,Premium,3
+1982,2025-01-01,Peru,Bogota,Ecommerce,Oficina,2366581,1193786,1172795,0.5,Basico,1
+1983,2025-01-01,Mexico,Lima,Ecommerce,Tecnologia,4984990,3004250,1980740,0.4,Corporativo,2
+1984,2025-01-01,Chile,Lima,Tienda Fisica,Hogar,2017535,1522725,494810,0.25,Premium,2
+1985,2025-01-01,Chile,Santiago,Ecommerce,Tecnologia,2915256,1673316,1241940,0.43,Premium,3
+1986,2025-01-01,Colombia,Bogota,Ecommerce,Tecnologia,668039,400240,267799,0.4,Premium,4
+1987,2025-01-01,Chile,Santiago,Ecommerce,Oficina,4054506,1986119,2068387,0.51,Basico,5
+1988,2025-01-01,Chile,Lima,Ecommerce,Tecnologia,4748068,2644944,2103124,0.44,Premium,5
+1989,2025-01-01,Peru,Lima,Ecommerce,Hogar,137033,91975,45058,0.33,Basico,5
+1990,2025-01-01,Mexico,Santiago,Tienda Fisica,Oficina,3039188,1953854,1085334,0.36,Premium,3
+1991,2025-01-01,Colombia,Bogota,Tienda Fisica,Tecnologia,4148715,3215367,933348,0.22,Basico,4
+1992,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,2849902,1364980,1484922,0.52,Premium,3
+1993,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,2200783,1226565,974218,0.44,Basico,3
+1994,2025-01-01,Colombia,Cartagena,Tienda Fisica,Tecnologia,3097203,2361714,735489,0.24,Premium,4
+1995,2025-01-01,Colombia,Santiago,App Movil,Tecnologia,3785241,2187135,1598106,0.42,Corporativo,3
+1996,2025-01-01,Peru,Cartagena,App Movil,Oficina,1288808,859417,429391,0.33,Corporativo,4
+1997,2025-01-01,Peru,Lima,Ecommerce,Tecnologia,4835144,4020444,814700,0.17,Basico,2
+1998,2025-01-01,Colombia,Cartagena,App Movil,Tecnologia,4803258,3095220,1708038,0.36,Premium,2
+1999,2025-01-01,Chile,Bogota,Tienda Fisica,Oficina,4796851,3272440,1524411,0.32,Corporativo,3
+2000,2025-01-01,Peru,Bogota,Tienda Fisica,Hogar,3728753,3134390,594363,0.16,Basico,3
