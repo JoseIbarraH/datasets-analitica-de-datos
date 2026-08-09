@@ -1,0 +1,44 @@
+name: Actualizar datos SECOP (Cartagena)
+
+# Cuándo se ejecuta:
+on:
+  schedule:
+    - cron: "0 6 * * 1"        # todos los lunes 06:00 UTC (~01:00 Colombia)
+  workflow_dispatch: {}         # botón manual "Run workflow" en la pestaña Actions
+
+# Permitir que el job haga commit del parquet actualizado
+permissions:
+  contents: write
+
+jobs:
+  etl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install pandas pyarrow
+
+      - name: Ejecutar ETL (descarga + limpieza + parquet)
+        env:
+          SOCRATA_APP_TOKEN: ${{ secrets.SOCRATA_APP_TOKEN }}   # opcional
+        run: python etl.py
+
+      - name: Hacer commit si el parquet cambió
+        run: |
+          git config user.name  "observatorio-bot"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain secop2_limpio.parquet)" ]; then
+            git add secop2_limpio.parquet
+            git commit -m "chore: actualización automática de datos SECOP ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Datos actualizados y publicados."
+          else
+            echo "Sin cambios en los datos; no se hace commit."
+          fi
